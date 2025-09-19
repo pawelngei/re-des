@@ -1,0 +1,7 @@
+"---" 
+"layout: default" 
+"title: Interactive home page" 
+"---" 
+"" 
+"# ReDes - Regenerative Design" 
+"" 
