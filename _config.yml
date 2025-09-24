@@ -1,0 +1,44 @@
+# Site settings
+title: ReDes - Regenerative Design
+description: Exploring the intersection of Permaculture, Sociocracy, and Solarpunk principles
+url: "https://re-des.org"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Navigation
+navigation:
+  - title: "Us"
+    url: "/us/"
+  - title: "Permaculture"
+    url: "/permaculture/"
+  - title: "Sociocracy"
+    url: "/sociocracy/"
+  - title: "Solarpunk"
+    url: "/solarpunk/"
+  - title: "Resources"
+    url: "/resources/"
+  - title: "Contact"
+    url: "/contact/"
+
+# Collections for organized content
+collections:
+  permaculture_links:
+    output: true
+    permalink: /:collection/:name/
+  solarpunk_translations:
+    output: true
+    permalink: /:collection/:name/
+
+# Exclude files from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Plugins (GitHub Pages supported plugins)
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
