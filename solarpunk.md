@@ -8,7 +8,7 @@ title: Solarpunk
     
     <div style="display: flex; gap: 3rem; justify-content: center; flex-wrap: wrap;">
         <div style="flex: 1; min-width: 300px; text-align: center;">
-            <a href="{{ '/solarpunk-manifesto-translations/' | relative_url }}" style="text-decoration: none; color: inherit;">
+            <a href="{{ '/solarpunk-manifesto/' | relative_url }}" style="text-decoration: none; color: inherit;">
                 <div style="border: 2px solid #ff6b35; border-radius: 12px; padding: 2rem; background: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s;">
                     <h2 style="color: #ff6b35; margin-bottom: 1rem;">A Solarpunk Manifesto</h2>
                     <p style="color: #666;">All the Languages</p>
@@ -25,4 +25,5 @@ title: Solarpunk
             </a>
         </div>
     </div>
+
 </div>
