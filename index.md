@@ -3,29 +3,26 @@ layout: default
 title: Home
 ---
 
-<div class="hero-section">
-    <h1>Welcome to Our Sustainable Future</h1>
-    <p>Exploring the intersection of Permaculture, Sociocracy, and Solarpunk principles</p>
-</div>
-
-<div class="hero-buttons">
-    <a href="{{ '/permaculture/' | relative_url }}" class="hero-button">
-        <h2>Permaculture</h2>
-        <p>Sustainable design principles for regenerative living</p>
-    </a>
+<div style="text-align: center; padding: 2rem;">
+    <div style="margin: 2rem 0;">
+        <img src="/assets/images/REDES Aless 5.png" alt="ReDes Logo" style="max-width: 300px;">
+    </div>
     
-    <a href="{{ '/sociocracy/' | relative_url }}" class="hero-button">
-        <h2>Sociocracy</h2>
-        <p>Democratic governance and decision-making systems</p>
-    </a>
-    
-    <a href="{{ '/solarpunk/' | relative_url }}" class="hero-button">
-        <h2>Solarpunk</h2>
-        <p>Optimistic visions of sustainable futures</p>
-    </a>
-    
-    <a href="{{ '/resources/' | relative_url }}" class="hero-button">
-        <h2>Resources</h2>
-        <p>Tools, links, and materials for all three areas</p>
-    </a>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 800px; margin: 0 auto;">
+        <a href="{{ '/permaculture/' | relative_url }}">
+            <img src="/assets/images/Permaculture Button.png" alt="Permaculture" style="max-width: 200px; height: auto;">
+        </a>
+        
+        <a href="{{ '/sociocracy/' | relative_url }}">
+            <img src="/assets/images/Sociocracy Button.png" alt="Sociocracy" style="max-width: 200px; height: auto;">
+        </a>
+        
+        <a href="{{ '/solarpunk/' | relative_url }}">
+            <img src="/assets/images/Solarpunk Button.png" alt="Solarpunk" style="max-width: 200px; height: auto;">
+        </a>
+        
+        <a href="{{ '/resources/' | relative_url }}">
+            <img src="/assets/images/Resources Button.png" alt="Resources" style="max-width: 200px; height: auto;">
+        </a>
+    </div>
 </div>
