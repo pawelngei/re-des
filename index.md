@@ -3,26 +3,29 @@ layout: default
 title: Home
 ---
 
-<div style="text-align: center; padding: 3rem;">
-    <h1><a href="/us/" style="text-decoration: none; color: #333;">ReDes - Regenerative Design</a></h1>
+<div style="height: 80vh; position: relative; display: flex; align-items: center; justify-content: center;">
+    <!-- Center logo -->
+    <a href="/us/" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;">
+        <img src="/assets/images/REDES Aless 5.png" alt="ReDes Logo" style="max-width: 250px;">
+    </a>
     
-    <div style="margin-top: 3rem;">
-        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; max-width: 600px; margin: 0 auto;">
-            <a href="/solarpunk/" style="display: block; padding: 2rem; border: 2px solid #ff6b35; border-radius: 8px; text-decoration: none; color: #333; background: white;">
-                <h2 style="color: #ff6b35; margin: 0;">Solarpunk</h2>
-            </a>
-            
-            <a href="/resources/" style="display: block; padding: 2rem; border: 2px solid #ff6b35; border-radius: 8px; text-decoration: none; color: #333; background: white;">
-                <h2 style="color: #ff6b35; margin: 0;">Resources</h2>
-            </a>
-            
-            <a href="/permaculture/" style="display: block; padding: 2rem; border: 2px solid #4a7c59; border-radius: 8px; text-decoration: none; color: #333; background: white;">
-                <h2 style="color: #4a7c59; margin: 0;">Permaculture</h2>
-            </a>
-            
-            <a href="/sociocracy/" style="display: block; padding: 2rem; border: 2px solid #4a7c59; border-radius: 8px; text-decoration: none; color: #333; background: white;">
-                <h2 style="color: #4a7c59; margin: 0;">Sociocracy</h2>
-            </a>
-        </div>
-    </div>
+    <!-- Solarpunk - top left -->
+    <a href="/solarpunk/" style="position: absolute; top: 10%; left: 10%; padding: 1.5rem 2rem; border: 3px solid #6B8E23; border-radius: 12px; text-decoration: none; background: white; color: #6B8E23; font-weight: bold; font-size: 1.1rem;">
+        Solarpunk
+    </a>
+    
+    <!-- Resources - top right -->
+    <a href="/resources/" style="position: absolute; top: 10%; right: 10%; padding: 1.5rem 2rem; border: 3px solid #FF8C00; border-radius: 12px; text-decoration: none; background: white; color: #FF8C00; font-weight: bold; font-size: 1.1rem;">
+        Resources
+    </a>
+    
+    <!-- Permaculture - bottom left -->
+    <a href="/permaculture/" style="position: absolute; bottom: 10%; left: 10%; padding: 1.5rem 2rem; border: 3px solid #6B8E23; border-radius: 12px; text-decoration: none; background: white; color: #6B8E23; font-weight: bold; font-size: 1.1rem;">
+        Permaculture
+    </a>
+    
+    <!-- Sociocracy - bottom right -->
+    <a href="/sociocracy/" style="position: absolute; bottom: 10%; right: 10%; padding: 1.5rem 2rem; border: 3px solid #6B8E23; border-radius: 12px; text-decoration: none; background: white; color: #6B8E23; font-weight: bold; font-size: 1.1rem;">
+        Sociocracy
+    </a>
 </div>
