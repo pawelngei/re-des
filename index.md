@@ -1,31 +1,28 @@
 ---
 layout: default
-title: Home
+title: Solarpunk
 ---
 
-<div style="height: 80vh; position: relative; display: flex; align-items: center; justify-content: center;">
-    <!-- Center logo -->
-    <a href="/us/" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;">
-        <img src="/assets/images/REDES Aless 5.png" alt="ReDes Logo" style="max-width: 250px;">
-    </a>
+<div style="padding: 2rem; max-width: 1000px; margin: 0 auto;">
+    <h1 style="text-align: center; margin-bottom: 3rem;">Solarpunk</h1>
     
-    <!-- Solarpunk - top left -->
-    <a href="/solarpunk/" style="position: absolute; top: 10%; left: 10%; padding: 1.5rem 2rem; border: 3px solid #6B8E23; border-radius: 12px; text-decoration: none; background: white; color: #6B8E23; font-weight: bold; font-size: 1.1rem;">
-        Solarpunk
-    </a>
-    
-    <!-- Resources - top right -->
-    <a href="/resources/" style="position: absolute; top: 10%; right: 10%; padding: 1.5rem 2rem; border: 3px solid #FF8C00; border-radius: 12px; text-decoration: none; background: white; color: #FF8C00; font-weight: bold; font-size: 1.1rem;">
-        Resources
-    </a>
-    
-    <!-- Permaculture - bottom left -->
-    <a href="/permaculture/" style="position: absolute; bottom: 10%; left: 10%; padding: 1.5rem 2rem; border: 3px solid #6B8E23; border-radius: 12px; text-decoration: none; background: white; color: #6B8E23; font-weight: bold; font-size: 1.1rem;">
-        Permaculture
-    </a>
-    
-    <!-- Sociocracy - bottom right -->
-    <a href="/sociocracy/" style="position: absolute; bottom: 10%; right: 10%; padding: 1.5rem 2rem; border: 3px solid #6B8E23; border-radius: 12px; text-decoration: none; background: white; color: #6B8E23; font-weight: bold; font-size: 1.1rem;">
-        Sociocracy
-    </a>
+    <div style="display: flex; gap: 3rem; justify-content: center; flex-wrap: wrap;">
+        <div style="flex: 1; min-width: 300px; text-align: center;">
+            <a href="/solarpunk-manifesto/" style="text-decoration: none; color: inherit;">
+                <div style="border: 2px solid #FF8C00; border-radius: 12px; padding: 2rem; background: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+                    <h2 style="color: #FF8C00; margin-bottom: 1rem;">A Solarpunk Manifesto</h2>
+                    <p style="color: #666;">All the Languages</p>
+                </div>
+            </a>
+        </div>
+        
+        <div style="flex: 1; min-width: 300px; text-align: center;">
+            <a href="/la-rueda/" style="text-decoration: none; color: inherit;">
+                <div style="border: 2px solid #6B8E23; border-radius: 12px; padding: 2rem; background: #fff; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+                    <h2 style="color: #6B8E23; margin-bottom: 1rem;">La Rueda</h2>
+                    <p style="color: #666;">Una novel·la il·lustrada sobre Permacultura en clave Solarpunk</p>
+                </div>
+            </a>
+        </div>
+    </div>
 </div>
