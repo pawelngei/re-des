@@ -12,14 +12,14 @@ theme: minima
 navigation:
   - title: "Us"
     url: "/us/"
+  - title: "Resources"
+    url: "/resources/"
+  - title: "Solarpunk"
+    url: "/solarpunk/"
   - title: "Permaculture"
     url: "/permaculture/"
   - title: "Sociocracy"
     url: "/sociocracy/"
-  - title: "Solarpunk"
-    url: "/solarpunk/"
-  - title: "Resources"
-    url: "/resources/"
   - title: "Contact"
     url: "/contact/"
 
