@@ -2,7 +2,7 @@
 title: ReDes - Regenerative Design
 description: Exploring the intersection of Permaculture, Sociocracy, and Solarpunk principles
 url: "https://re-des.org"
-baseurl: "/re-des"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
