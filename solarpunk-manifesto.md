@@ -1,34 +1,39 @@
-echo "---
+---
 layout: default
 title: A Solarpunk Manifesto (All the languages)
+permalink: /solarpunk-manifesto/
 ---
-
 # A Solarpunk Manifesto (All the languages)
 
-## Language Versions
-
-### Column 1
-- [العربية (Arabic)](/a-solarpunk-manifesto-arabic/)
-- [Català](/un-manifest-solarpunk-catala/)
-- [中文 (Chinese)](/es/un-manifesto-solarpunk-chinese/)
-- [Deutsch](/ein-solarpunk-manifest-deutsch/)
-- [English](/a-solarpunk-manifesto/)
-- [Español](/un-manifiesto-solarpunk/)
-- [Euskera](/solarpunk-manifestu-bat-euskera/)
-- [فارسی (Farsi)](/es/a-solarpunk-manifesto-farsi/)
-- [Français](/un-manifest-solarpunk-francais/)
-- [Galego](/un-manifesto-solarpunk-galego/)
-- [עברית (Hebrew)](/a-solarpunk-manifesto-hebrew/)
-
-### Column 2
-- [Italiano](/un-manifesto-solarpunk-italiano/)
-- [日本語 (Japanese)](/a-solarpunk-manifesto-japanese/)
-- [Magyar](/egy-solarpunk-manifeszto-magyar/)
-- [Português](/um-manifesto-solarpunk-portugues-brasil/)
-- [Polski](/manifest-solarpunka-polski/)
-- [Русский (Russian)](/es/манифест-соларпанка-russian/)
-- [Sicilianu](/nu-manifestu-solarpunk-sicilianu/)
-- [Slovensky](/solarpunkovy-manifest-slovensky/)
-- [Srpski](/solarpank-manifest-srpski/)
-- [Svenska](/ett-solarpunkmanifest-svenska/)
-- [Türkçe](/solarpunk-manifestosu/)" > solarpunk-manifesto.md
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+    <div>
+        <ul style="list-style: none; padding: 0;">
+            <li><a href="{{ site.baseurl }}/a-solarpunk-manifesto-arabic/">العربية (Arabic)</a></li>
+            <li><a href="{{ site.baseurl }}/un-manifest-solarpunk-catala/">Català</a></li>
+            <li><a href="{{ site.baseurl }}/es/un-manifesto-solarpunk-chinese/">中文 (Chinese)</a></li>
+            <li><a href="{{ site.baseurl }}/ein-solarpunk-manifest-deutsch/">Deutsch</a></li>
+            <li><a href="{{ site.baseurl }}/a-solarpunk-manifesto/">English</a></li>
+            <li><a href="{{ site.baseurl }}/un-manifiesto-solarpunk/">Español</a></li>
+            <li><a href="{{ site.baseurl }}/solarpunk-manifestu-bat-euskera/">Euskera</a></li>
+            <li><a href="{{ site.baseurl }}/es/a-solarpunk-manifesto-farsi/">فارسی (Farsi)</a></li>
+            <li><a href="{{ site.baseurl }}/un-manifest-solarpunk-francais/">Français</a></li>
+            <li><a href="{{ site.baseurl }}/un-manifesto-solarpunk-galego/">Galego</a></li>
+            <li><a href="{{ site.baseurl }}/a-solarpunk-manifesto-hebrew/">עברית (Hebrew)</a></li>
+        </ul>
+    </div>
+    <div>
+        <ul style="list-style: none; padding: 0;">
+            <li><a href="{{ site.baseurl }}/un-manifesto-solarpunk-italiano/">Italiano</a></li>
+            <li><a href="{{ site.baseurl }}/a-solarpunk-manifesto-japanese/">日本語 (Japanese)</a></li>
+            <li><a href="{{ site.baseurl }}/egy-solarpunk-manifeszto-magyar/">Magyar</a></li>
+            <li><a href="{{ site.baseurl }}/um-manifesto-solarpunk-portugues-brasil/">Português</a></li>
+            <li><a href="{{ site.baseurl }}/manifest-solarpunka-polski/">Polski</a></li>
+            <li><a href="{{ site.baseurl }}/es/манифест-соларпанка-russian/">Русский (Russian)</a></li>
+            <li><a href="{{ site.baseurl }}/nu-manifestu-solarpunk-sicilianu/">Sicilianu</a></li>
+            <li><a href="{{ site.baseurl }}/solarpunkovy-manifest-slovensky/">Slovensky</a></li>
+            <li><a href="{{ site.baseurl }}/solarpank-manifest-srpski/">Srpski</a></li>
+            <li><a href="{{ site.baseurl }}/ett-solarpunkmanifest-svenska/">Svenska</a></li>
+            <li><a href="{{ site.baseurl }}/solarpunk-manifestosu/">Türkçe</a></li>
+        </ul>
+    </div>
+</div>
