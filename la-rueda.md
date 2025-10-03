@@ -1,6 +1,7 @@
 ---
 layout: default
 title: La Rueda
+permalink: /la-rueda/
 ---
 
 # La Rueda
@@ -54,5 +55,6 @@ Instagram: @iruka_illustration_atlantis
 El papel utilizado para la impresión del libro ha sido fabricado a partir de madera procedente de bosques controlados, es cien por cien libre de cloro y está clasificado como papel ecológico.
 
 ---
+
 
 Para comprar el libro escribe un email a: alexardov@gmail.com
