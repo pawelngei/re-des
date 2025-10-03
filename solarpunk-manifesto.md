@@ -1,6 +1,7 @@
 ---
 layout: default
 title: A Solarpunk Manifesto (All the languages)
+permalink: /solarpunk-manifesto/
 ---
 # A Solarpunk Manifesto (All the languages)
 
