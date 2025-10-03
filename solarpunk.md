@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Solarpunk
+permalink: /solarpunk/
 ---
 
 # Solarpunk
