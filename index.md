@@ -9,22 +9,22 @@ title: Home
     </a>
     
     <!-- Solarpunk - top left -->
-    <a href="{{ site.baseurl }}/solarpunk/" style="position: absolute; top: 10%; left: 10%; padding: 1.5rem 2rem; border: 3px solid #6B8E23; border-radius: 12px; text-decoration: none; background: white; color: #6B8E23; font-weight: bold; font-size: 1.1rem;">
+    <a href="{{ site.baseurl }}/solarpunk/" style="position: absolute; top: 10%; left: 10%; padding: 1.5rem 2rem; border: none; border-radius: 12px; text-decoration: none; background: #4CAF50; color: white; font-weight: bold; font-size: 1.1rem;">
         Solarpunk
     </a>
     
     <!-- Resources - top right -->
-    <a href="{{ site.baseurl }}/resources/" style="position: absolute; top: 10%; right: 10%; padding: 1.5rem 2rem; border: 3px solid #FF8C00; border-radius: 12px; text-decoration: none; background: white; color: #FF8C00; font-weight: bold; font-size: 1.1rem;">
+    <a href="{{ site.baseurl }}/resources/" style="position: absolute; top: 10%; right: 10%; padding: 1.5rem 2rem; border: none; border-radius: 12px; text-decoration: none; background: #FF9800; color: white; font-weight: bold; font-size: 1.1rem;">
         Resources
     </a>
     
     <!-- Permaculture - bottom left -->
-    <a href="{{ site.baseurl }}/permaculture/" style="position: absolute; bottom: 10%; left: 10%; padding: 1.5rem 2rem; border: 3px solid #6B8E23; border-radius: 12px; text-decoration: none; background: white; color: #6B8E23; font-weight: bold; font-size: 1.1rem;">
+    <a href="{{ site.baseurl }}/permaculture/" style="position: absolute; bottom: 10%; left: 10%; padding: 1.5rem 2rem; border: none; border-radius: 12px; text-decoration: none; background: #4CAF50; color: white; font-weight: bold; font-size: 1.1rem;">
         Permaculture
     </a>
     
     <!-- Sociocracy - bottom right -->
-    <a href="{{ site.baseurl }}/sociocracy/" style="position: absolute; bottom: 10%; right: 10%; padding: 1.5rem 2rem; border: 3px solid #6B8E23; border-radius: 12px; text-decoration: none; background: white; color: #6B8E23; font-weight: bold; font-size: 1.1rem;">
+    <a href="{{ site.baseurl }}/sociocracy/" style="position: absolute; bottom: 10%; right: 10%; padding: 1.5rem 2rem; border: none; border-radius: 12px; text-decoration: none; background: #4CAF50; color: white; font-weight: bold; font-size: 1.1rem;">
         Sociocracy
     </a>
 </div>
