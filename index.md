@@ -5,7 +5,7 @@ title: Home
 <div style="height: 80vh; position: relative; display: flex; align-items: center; justify-content: center;">
     <!-- Center logo -->
     <a href="{{ site.baseurl }}/us/" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1;">
-        <img src="{{ site.baseurl }}/assets/images/REDES%20Aless%205.png" alt="ReDes Logo" style="max-width: 250px;">
+        <img src="/assets/images/REDES%20Aless%205.png" alt="ReDes Logo" style="max-width: 250px;">
     </a>
     
     <!-- Solarpunk - top left -->
