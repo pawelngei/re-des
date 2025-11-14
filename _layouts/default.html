@@ -161,13 +161,13 @@
 <body>
     <header class="header">
         <div class="nav-container">
-            <a href="{{ '/' | relative_url }}" class="logo">
+            <a href="{{ '/' class="logo">
                 {{ site.title }}
             </a>
             <nav>
                 <ul class="nav-menu">
                     {% for item in site.navigation %}
-                    <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+                    <li><a href="{{ item.url }}">{{ item.title }}</a></li>
                     {% endfor %}
                 </ul>
             </nav>
