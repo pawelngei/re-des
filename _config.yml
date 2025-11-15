@@ -1,8 +1,8 @@
 # Site settings
 title: ReDes - Regenerative Design
 description: Solarpunk, Permaculture, Sociocracy
-url: "https://alexardov.github.io"
-baseurl: "/re-des"
+url: "https://re-des.org"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
