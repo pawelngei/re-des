@@ -4,12 +4,37 @@ title: La Rueda
 permalink: /la-rueda/
 ---
 
-# La Rueda
-## Una novel·la il·lustrada sobre Permacultura en clave Solarpunk
+<div style="max-width: 1200px; margin: 0 auto;">
 
-**Alessandro Ardovini y Simranjit Bison con ilustraciones de Iruka**
+# La Rueda. Una novel·la il·lustrada sobre Permacultura en clave Solarpunk
 
-*El libro viene con una copia en color y en formato A3 del sistema de diseño La Rueda EsEmCueM*
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; margin: 3rem 0;">
+
+<div>
+<img src="/assets/images/La Rueda - portada.jpg" alt="La Rueda book cover" style="width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+
+<!-- Gallery thumbnails -->
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 0.5rem; margin-top: 1rem;">
+<img src="/assets/images/La Rueda - portada.jpg" alt="Portada" style="width: 100%; border-radius: 4px;">
+<img src="/assets/images/La Rueda - first page" alt="Primera página" style="width: 100%; border-radius: 4px;">
+<img src="/assets/images/La Rueda - side" alt="Lateral" style="width: 100%; border-radius: 4px;">
+<img src="/assets/images/La Rueda - back" alt="Contraportada" style="width: 100%; border-radius: 4px;">
+</div>
+</div>
+
+<div>
+
+<p style="font-size: 1.2rem; color: #666; margin-bottom: 1rem;">Alessandro Ardovini y Simranjit Bison con ilustraciones de Iruka</p>
+
+<p style="background: #f0f0f0; padding: 1rem; border-radius: 8px; font-style: italic;">El libro viene con una copia en color y en formato A3 del sistema de diseño La Rueda EsEmCueM</p>
+
+<p style="font-size: 1.5rem; font-weight: bold; color: #4CAF50; margin: 1.5rem 0;">18,05€</p>
+
+<a href="mailto:alexardov@gmail.com?subject=Compra La Rueda" style="display: inline-block; background: #4CAF50; color: white; padding: 1rem 2rem; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1.1rem;">AÑADIR AL CARRITO</a>
+
+</div>
+
+</div>
 
 ---
 
@@ -33,12 +58,39 @@ Con una proyección hacia un futuro solar en puro estilo solarpunk.
 
 ## Biografía de las autoras
 
-**Alessandro Ardovini** es ecléctico, feminista, permacultor, escritor, filólogo, músico aficionado, cinéfilo, tarólogo, solarpunk, artesano digital. Es formador en permacultura y sociocracia, se dedica también a la regeneración de ecosistemas, a la creación y gestión de bosques comestibles y hace consultorias en permacultura. Es co-fundador de varios grupos y redes de permacultura y participa en unas cuantas más.
+<div style="display: grid; grid-template-columns: 1fr 2fr; gap: 2rem; margin: 2rem 0;">
 
-**Simranjit Bison** es licenciada en biología, profesora y traductora científica. Tiene formación en Comunicación NoViolenta y en permacultura. Es miembro fundador del [BCN World Music Project](https://www.facebook.com/bcnworldmusic), plataforma de músicos que tiene como objetivo promover el diálogo intercultural a través de las músicas tradicionales.
+<img src="/assets/images/La Rueda - Sim y Aless.jpg" alt="Alessandro y Simranjit" style="width: 100%; border-radius: 8px;">
 
-**Iruka** es ilustradora, científica marina y amante de la permacultura  
-Instagram: @iruka_illustration_atlantis
+<div>
+
+**Alessandro Ardovini** es ecléctico, feminista, permacultor, escritor, filólogo, músico aficionado, cinéfilo, tarólogo, solarpunk, artesano digital.
+
+Es formador en permacultura y sociocracia, se dedica también a la regeneración de ecosistemas, a la creación y gestión de bosques comestibles y hace consultorias en permacultura.
+
+Es co-fundador de varios grupos y redes de permacultura y participa en unas cuantas más.
+
+**Simranjit Bison** es licenciada en biología, profesora y traductora científica. Tiene formación en Comunicación NoViolenta y en permacultura.
+
+Es miembro fundador del [BCN World Music Project](https://www.facebook.com/bcnworldmusic), plataforma de músicos que tiene como objetivo promover el diálogo intercultural a través de las músicas tradicionales.
+
+</div>
+
+</div>
+
+<div style="display: grid; grid-template-columns: 1fr 2fr; gap: 2rem; margin: 2rem 0;">
+
+<img src="/assets/images/La Rueda - Iruka.png" alt="Iruka" style="width: 100%; border-radius: 8px;">
+
+<div>
+
+**Iruka** es ilustradora, científica marina y amante de la permacultura
+
+Instagram: [@iruka_illustration_atlantis](https://www.instagram.com/iruka_illustration_atlantis/)
+
+</div>
+
+</div>
 
 ---
 
@@ -56,5 +108,9 @@ El papel utilizado para la impresión del libro ha sido fabricado a partir de ma
 
 ---
 
+<div style="text-align: center; margin: 3rem 0;">
+<p style="font-size: 1.2rem; margin-bottom: 1rem;">Para comprar el libro escribe un email a:</p>
+<a href="mailto:alexardov@gmail.com?subject=Compra La Rueda" style="font-size: 1.3rem; color: #4CAF50; font-weight: bold;">alexardov@gmail.com</a>
+</div>
 
-Para comprar el libro escribe un email a: alexardov@gmail.com
+</div>
