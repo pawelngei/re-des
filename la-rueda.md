@@ -30,7 +30,7 @@ permalink: /la-rueda/
 
 <p style="font-size: 1.5rem; font-weight: bold; color: #4CAF50; margin: 1.5rem 0;">18,05€</p>
 
-<a href="mailto:alexardov@gmail.com?subject=Compra La Rueda" style="display: inline-block; background: #4CAF50; color: white; padding: 1rem 2rem; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1.1rem;">AÑADIR AL CARRITO</a>
+<a href="mailto:alexardov@gmail.com?subject=Compra La Rueda" style="display: inline-block; background: #4CAF50; color: white; padding: 1rem 2rem; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 1.1rem;">COMPRA</a>
 
 </div>
 
@@ -40,11 +40,11 @@ permalink: /la-rueda/
 
 ## Sobre el libro
 
-Lo que se relata en este libro es la **historia** de Kseniya [KSʸE-nʸi-yə], una inmigrante siberiana en Barcelona, y de cómo un encuentro cambiará para siempre esta **historia**.
+<p>Lo que se relata en este libro es la <strong>historia</strong> de Kseniya [KSʸE-nʸi-yə], una inmigrante siberiana en Barcelona, y de cómo un encuentro cambiará para siempre esta <strong>historia</strong>.</p>
 
-Y es la **historia** de Kseniya dentro de treinta años, cuando aquel cambio en su vida habrá contribuido a cambiar la **historia** de la humanidad.
+<p>Y es la <strong>historia</strong> de Kseniya dentro de treinta años, cuando aquel cambio en su vida habrá contribuido a cambiar la <strong>historia</strong> de la humanidad.</p>
 
-Y es la **historia** de las muchas **historias** que se cuentan en el libro. Verdaderas o inventadas, grandes o pequeñas, largas o breves. Una **historia** sin fin.
+<p>Y es la <strong>historia</strong> de las muchas <strong>historias</strong> que se cuentan en el libro. Verdaderas o inventadas, grandes o pequeñas, largas o breves. Una <strong>historia</strong> sin fin.</p>
 
 ¿Quién escribió realmente este libro?
 
@@ -64,15 +64,15 @@ Con una proyección hacia un futuro solar en puro estilo solarpunk.
 
 <div>
 
-**Alessandro Ardovini** es ecléctico, feminista, permacultor, escritor, filólogo, músico aficionado, cinéfilo, tarólogo, solarpunk, artesano digital.
+<p><strong>Alessandro Ardovini</strong> es ecléctico, feminista, permacultor, escritor, filólogo, músico aficionado, cinéfilo, tarólogo, solarpunk, artesano digital.</p>
 
-Es formador en permacultura y sociocracia, se dedica también a la regeneración de ecosistemas, a la creación y gestión de bosques comestibles y hace consultorias en permacultura.
+<p>Es formador en permacultura y sociocracia, se dedica también a la regeneración de ecosistemas, a la creación y gestión de bosques comestibles y hace consultorias en permacultura.</p>
 
-Es co-fundador de varios grupos y redes de permacultura y participa en unas cuantas más.
+<p>Es co-fundador de varios grupos y redes de permacultura y participa en unas cuantas más.</p>
 
-**Simranjit Bison** es licenciada en biología, profesora y traductora científica. Tiene formación en Comunicación NoViolenta y en permacultura.
+<p><strong>Simranjit Bison</strong> es licenciada en biología, profesora y traductora científica. Tiene formación en Comunicación NoViolenta y en permacultura.</p>
 
-Es miembro fundador del [BCN World Music Project](https://www.facebook.com/bcnworldmusic), plataforma de músicos que tiene como objetivo promover el diálogo intercultural a través de las músicas tradicionales.
+<p>Es miembro fundador del <a href="https://www.facebook.com/bcnworldmusic">BCN World Music Project</a>, plataforma de músicos que tiene como objetivo promover el diálogo intercultural a través de las músicas tradicionales.</p>
 
 </div>
 
@@ -84,9 +84,9 @@ Es miembro fundador del [BCN World Music Project](https://www.facebook.com/bcnwo
 
 <div>
 
-**Iruka** es ilustradora, científica marina y amante de la permacultura
+<p><strong>Iruka</strong> es ilustradora, científica marina y amante de la permacultura</p>
 
-Instagram: [@iruka_illustration_atlantis](https://www.instagram.com/iruka_illustration_atlantis/)
+<p>Instagram: <a href="https://www.instagram.com/iruka_illustration_atlantis/">@iruka_illustration_atlantis</a></p>
 
 </div>
 
@@ -96,13 +96,15 @@ Instagram: [@iruka_illustration_atlantis](https://www.instagram.com/iruka_illust
 
 ## Detalles del producto
 
-- **Peso:** 470 g
-- **Dimensión:** 21 x 14,5 x 2,4 cm
-- **Tapa blanda:** 316 páginas
-- **ISBN-13:** 978-84-121531-3-2
-- **Editorial:** Kaicron (10 noviembre 2020)
-- **Idioma:** Español
-- **Precio:** 18,05€
+<ul>
+<li><strong>Peso:</strong> 470 g</li>
+<li><strong>Dimensión:</strong> 21 x 14,5 x 2,4 cm</li>
+<li><strong>Tapa blanda:</strong> 316 páginas</li>
+<li><strong>ISBN-13:</strong> 978-84-121531-3-2</li>
+<li><strong>Editorial:</strong> Kaicron (10 noviembre 2020)</li>
+<li><strong>Idioma:</strong> Español</li>
+<li><strong>Precio:</strong> 18,05€</li>
+</ul>
 
 El papel utilizado para la impresión del libro ha sido fabricado a partir de madera procedente de bosques controlados, es cien por cien libre de cloro y está clasificado como papel ecológico.
 
