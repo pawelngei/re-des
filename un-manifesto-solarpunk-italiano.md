@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Un Manifesto Solarpunk (Italiano)
+permalink: /un-manifesto-solarpunk-italiano/
 ---
 
 # Solarpunk
@@ -64,3 +65,4 @@ Il solarpunk è allo stesso tempo una visione del futuro, una provocazione pensa
 *La Comunità Solarpunk*
 
 Quest'opera è distribuita con Licenza [Creative Commons Attribuzione – Condividi allo stesso modo 4.0 Internazionale](http://creativecommons.org/licenses/by-sa/4.0/).
+
