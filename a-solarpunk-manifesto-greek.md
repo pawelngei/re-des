@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Solar punk - Ηλιακό πανκ (Ελληνικά)
+permalink: /a-solarpunk-manifesto-greek/
 ---
 
 # Solar punk (Ηλιακό πανκ)
@@ -85,5 +86,6 @@ title: Solar punk - Ηλιακό πανκ (Ελληνικά)
 **Backend** είναι το «αόρατο» τμήμα μιας ιστοσελίδας ή εφαρμογής που λειτουργεί στην πλευρά του διακομιστή (server-side), διαχειριζόμενο δεδομένα και την εσωτερική λογική που υποστηρίζει το φανερό τμήμα (**frontend**) με το οποίο αλληλεπιδρά ο χρήστης.
 
 Μετάφραση: Ελίζα Δημητρά
+
 
 Αυτό το έργο διατίθεται με άδεια [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
