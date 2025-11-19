@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ett Solarpunkmanifest (Svenska)
+permalink: /ett-solarpunkmanifest-svenska/
 ---
 
 <!DOCTYPE html>
@@ -679,5 +680,6 @@ var NeveProperties = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"5d213507a9
 /* ]]> */
 </script>
 </body>
+
 
 </html>
