@@ -3,686 +3,95 @@ layout: default
 title: Solarpunk Manifestosu (Türkçe)
 ---
 
-<!DOCTYPE html>
-<html lang="es-ES">
+# Solarpunk
 
-<head>
-	
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-	<link rel="profile" href="http://gmpg.org/xfn/11">
-		<title>Solarpunk Manifestosu (Türkçe) &ndash; ReDes &ndash; Regenerative Design</title>
-<meta name="robots" content="max-image-preview:large">
-	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
-	<link rel="alternate" type="application/rss+xml" title="ReDes - Regenerative Design &raquo; Feed" href="/es/feed/">
-<link rel="alternate" type="application/rss+xml" title="ReDes - Regenerative Design &raquo; Feed de los comentarios" href="/es/comments/feed/">
-<script type="text/javascript">
-/* <![CDATA[ */
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
-/*! This file is auto-generated */
-!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
-/* ]]> */
-</script>
-<style id="wp-emoji-styles-inline-css" type="text/css">
+_Çeviren: Şahin Davoodian_
 
-	img.wp-smiley, img.emoji {
-		display: inline !important;
-		border: none !important;
-		box-shadow: none !important;
-		height: 1em !important;
-		width: 1em !important;
-		margin: 0 0.07em !important;
-		vertical-align: -0.1em !important;
-		background: none !important;
-		padding: 0 !important;
-	}
-</style>
-<link rel="stylesheet" id="wp-block-library-css" href="/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2" type="text/css" media="all">
-<style id="classic-theme-styles-inline-css" type="text/css">
-/*! This file is auto-generated */
-.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
-</style>
-<link rel="stylesheet" id="wc-blocks-vendors-style-css" href="/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.9.2" type="text/css" media="all">
-<link rel="stylesheet" id="wc-blocks-style-css" href="/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.9.2" type="text/css" media="all">
-<style id="global-styles-inline-css" type="text/css">
-:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--neve-link-color: var(--nv-primary-accent);--wp--preset--color--neve-link-hover-color: var(--nv-secondary-accent);--wp--preset--color--nv-site-bg: var(--nv-site-bg);--wp--preset--color--nv-light-bg: var(--nv-light-bg);--wp--preset--color--nv-dark-bg: var(--nv-dark-bg);--wp--preset--color--neve-text-color: var(--nv-text-color);--wp--preset--color--nv-text-dark-bg: var(--nv-text-dark-bg);--wp--preset--color--nv-c-1: var(--nv-c-1);--wp--preset--color--nv-c-2: var(--nv-c-2);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
-:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
-:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
-:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
-</style>
-<link rel="stylesheet" id="woocommerce-layout-css" href="/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=7.2.2" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-smallscreen-css" href="/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=7.2.2" type="text/css" media="only screen and (max-width: 768px)">
-<link rel="stylesheet" id="woocommerce-general-css" href="/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=7.2.2" type="text/css" media="all">
-<style id="woocommerce-inline-inline-css" type="text/css">
-.woocommerce form .form-row .required { visibility: visible; }
-</style>
-<link rel="stylesheet" id="neve-woocommerce-css" href="/wp-content/themes/neve/assets/css/woocommerce-legacy.min.css?ver=3.4.10" type="text/css" media="all">
-<link rel="stylesheet" id="neve-style-css" href="/wp-content/themes/neve/assets/css/style-legacy.min.css?ver=3.4.10" type="text/css" media="all">
-<style id="neve-style-inline-css" type="text/css">
-.header-menu-sidebar-inner li.menu-item-nav-search { display: none; }
-		[data-row-id] .row { display: flex !important; align-items: center; flex-wrap: unset;}
-		@media (max-width: 960px) { .footer--row .row { flex-direction: column; } }
-.nv-meta-list li.meta:not(:last-child):after { content:"/" }.nv-meta-list .no-mobile{
-			display:none;
-		}.nv-meta-list li.last::after{
-			content: ""!important;
-		}@media (min-width: 769px) {
-			.nv-meta-list .no-mobile {
-				display: inline-block;
-			}
-			.nv-meta-list li.last:not(:last-child)::after {
-		 		content: "/" !important;
-			}
-		}
- .container{ max-width: 748px; } .has-neve-button-color-color{ color: #1a7c00!important; } .has-neve-button-color-background-color{ background-color: #1a7c00!important; } .alignfull > [class*="__inner-container"], .alignwide > [class*="__inner-container"]{ max-width:718px;margin:auto } .button.button-primary, button, input[type=button], .btn, input[type="submit"], /* Buttons in navigation */ ul[id^="nv-primary-navigation"] li.button.button-primary > a, .menu li.button.button-primary > a, .wp-block-button.is-style-primary .wp-block-button__link, .wc-block-grid .wp-block-button .wp-block-button__link ,.woocommerce *:not(.woocommerce-mini-cart__buttons) > a.button, .woocommerce *:not(.woocommerce-mini-cart__buttons) > .button:not(.nv-sidebar-toggle):not(.nv-close-cart-sidebar):not([name="apply_coupon"]):not(.more-details):not(.checkout-button), .woocommerce a.button.alt, .woocommerce a.button.button-primary, .woocommerce button.button:disabled, .woocommerce button.button:disabled[disabled], .woocommerce a.button.add_to_cart, .woocommerce a.product_type_grouped, .woocommerce a.product_type_external, .woocommerce a.product_type_variable, .woocommerce button.button.alt, .woocommerce button.button.alt.single_add_to_cart_button.disabled, .woocommerce button.button.alt.single_add_to_cart_button, .woocommerce .actions > button[type=submit], .woocommerce button#place_order, .woocommerce .return-to-shop > .button, .button.woocommerce-form-login__submit, form input[type="submit"], form button[type="submit"]{ background-color: #1a7c00;color: #ffffff;border-radius:3px 3px 3px 3px;border:none;border-width:1px 1px 1px 1px; } .button.button-primary:hover, ul[id^="nv-primary-navigation"] li.button.button-primary > a:hover, .menu li.button.button-primary > a:hover, .wp-block-button.is-style-primary .wp-block-button__link:hover, .wc-block-grid .wp-block-button .wp-block-button__link:hover ,.woocommerce *:not(.woocommerce-mini-cart__buttons) > a.button:hover, .woocommerce *:not(.woocommerce-mini-cart__buttons) > .button:not(.nv-sidebar-toggle):not(.nv-close-cart-sidebar):not([name="apply_coupon"]):not(.more-details):not(.checkout-button):hover, .woocommerce a.button.alt:hover, .woocommerce a.button.button-primary:hover, .woocommerce button.button:disabled:hover, .woocommerce button.button:disabled[disabled]:hover, .woocommerce a.button.add_to_cart:hover, .woocommerce a.product_type_grouped:hover, .woocommerce a.product_type_external:hover, .woocommerce a.product_type_variable:hover, .woocommerce button.button.alt.single_add_to_cart_button.disabled:hover, .woocommerce button.button.alt.single_add_to_cart_button:hover, .woocommerce .actions > button[type=submit]:hover, .woocommerce .return-to-shop > .button:hover, .button.woocommerce-form-login__submit:hover, form input[type="submit"]:hover, form button[type="submit"]:hover{ background-color: #2e7c18;color: #ffffff; } .button.button-secondary:not(.secondary-default), .wp-block-button.is-style-secondary .wp-block-button__link ,.woocommerce-cart table.cart td.actions .coupon > .input-text + .button, .woocommerce-checkout #neve-checkout-coupon .woocommerce-form-coupon .form-row-last button, .woocommerce button.button:not(.single_add_to_cart_button), .woocommerce a.added_to_cart, .woocommerce .checkout_coupon button.button, .woocommerce .price_slider_amount button.button, .woocommerce .button.button-secondary.more-details, .woocommerce-checkout #neve-checkout-coupon .woocommerce-form-coupon .form-row-last button.button{ background-color: #1a7c00;color: #ffffff;border-radius:3px 3px 3px 3px;border:none;border-width:1px 1px 1px 1px; } .button.button-secondary.secondary-default{ background-color: #1a7c00;color: #ffffff;border-radius:3px 3px 3px 3px;border:none;border-width:1px 1px 1px 1px; } .button.button-secondary:not(.secondary-default):hover, .wp-block-button.is-style-secondary .wp-block-button__link:hover ,.woocommerce-cart table.cart td.actions .coupon > .input-text + .button:hover, .woocommerce-checkout #neve-checkout-coupon .woocommerce-form-coupon .form-row-last button:hover, .woocommerce button.button:not(.single_add_to_cart_button):hover, .woocommerce a.added_to_cart:hover, .woocommerce .checkout_coupon button.button:hover, .woocommerce .price_slider_amount button.button:hover, .woocommerce .button.button-secondary.more-details:hover, .woocommerce-checkout #neve-checkout-coupon .woocommerce-form-coupon .form-row-last button.button:hover{ background-color: #2e7c18;color: #ffffff; } .button.button-secondary.secondary-default:hover{ background-color: #2e7c18;color: #ffffff; } .woocommerce-mini-cart__buttons .button.checkout{ background-color: #1a7c00;color: #ffffff;border-radius:3px 3px 3px 3px;border:none;border-width:1px 1px 1px 1px; } .woocommerce-mini-cart__buttons .button.checkout:hover{ background-color: #2e7c18;color: #ffffff; } .woocommerce .woocommerce-mini-cart__buttons.buttons a.button.wc-forward:not(.checkout){ background-color: #1a7c00;color: #ffffff;border-radius:3px 3px 3px 3px;border:none;border-width:1px 1px 1px 1px; } .woocommerce .woocommerce-mini-cart__buttons.buttons a.button.wc-forward:not(.checkout):hover{ background-color: #2e7c18;color: #ffffff; } form input:read-write, form textarea, form select, form select option, form.wp-block-search input.wp-block-search__input, .widget select, .woocommerce-cart table.cart td.actions .coupon .input-text, .woocommerce-page .select2-container--default .select2-selection--single, .woocommerce-page .woocommerce form .form-row input.input-text, .woocommerce-page .woocommerce form .form-row textarea, input.wc-block-product-search__field{ color: var(--nv-text-color); } form.search-form input:read-write, form.woocommerce-product-search input[type="search"]{ padding-right:45px !important; } .global-styled{ --bgcolor: var(--nv-site-bg); } .header-main-inner,.header-main-inner a:not(.button),.header-main-inner .navbar-toggle{ color: var(--nv-text-color); } .header-main-inner .nv-icon svg,.header-main-inner .nv-contact-list svg{ fill: var(--nv-text-color); } .header-main-inner .icon-bar{ background-color: var(--nv-text-color); } .hfg_header .header-main-inner .nav-ul .sub-menu{ background-color: var(--nv-site-bg); } .hfg_header .header-main-inner{ background-color: var(--nv-site-bg); } .header-menu-sidebar .header-menu-sidebar-bg,.header-menu-sidebar .header-menu-sidebar-bg a:not(.button),.header-menu-sidebar .header-menu-sidebar-bg .navbar-toggle{ color: var(--nv-text-color); } .header-menu-sidebar .header-menu-sidebar-bg .nv-icon svg,.header-menu-sidebar .header-menu-sidebar-bg .nv-contact-list svg{ fill: var(--nv-text-color); } .header-menu-sidebar .header-menu-sidebar-bg .icon-bar{ background-color: var(--nv-text-color); } .hfg_header .header-menu-sidebar .header-menu-sidebar-bg .nav-ul .sub-menu{ background-color: var(--nv-site-bg); } .hfg_header .header-menu-sidebar .header-menu-sidebar-bg{ background-color: var(--nv-site-bg); } .header-menu-sidebar{ width: 360px; } .builder-item--logo .site-logo img{ max-width: 120px; } .builder-item--logo .site-logo{ padding:10px 0px 10px 0px; } .builder-item--logo{ margin:0px 0px 0px 0px; } .builder-item--nav-icon .navbar-toggle{ padding:10px 15px 10px 15px; } .builder-item--nav-icon{ margin:0px 0px 0px 0px; } .builder-item--primary-menu .nav-menu-primary > .nav-ul li:not(.woocommerce-mini-cart-item) > a,.builder-item--primary-menu .nav-menu-primary > .nav-ul .has-caret > a,.builder-item--primary-menu .nav-menu-primary > .nav-ul .neve-mm-heading span,.builder-item--primary-menu .nav-menu-primary > .nav-ul .has-caret{ color: var(--nv-text-color); } .builder-item--primary-menu .nav-menu-primary > .nav-ul li:not(.woocommerce-mini-cart-item) > a:after,.builder-item--primary-menu .nav-menu-primary > .nav-ul li > .has-caret > a:after{ background-color: #1a7c00; } .builder-item--primary-menu .nav-menu-primary > .nav-ul li:not(.woocommerce-mini-cart-item):hover > a,.builder-item--primary-menu .nav-menu-primary > .nav-ul li:hover > .has-caret > a,.builder-item--primary-menu .nav-menu-primary > .nav-ul li:hover > .has-caret{ color: #1a7c00; } .builder-item--primary-menu .nav-menu-primary > .nav-ul li:hover > .has-caret svg{ fill: #1a7c00; } .builder-item--primary-menu .nav-menu-primary > .nav-ul li.current-menu-item > a,.builder-item--primary-menu .nav-menu-primary > .nav-ul li.current_page_item > a,.builder-item--primary-menu .nav-menu-primary > .nav-ul li.current_page_item > .has-caret > a{ color: #f8760d; } .builder-item--primary-menu .nav-menu-primary > .nav-ul li.current-menu-item > .has-caret svg{ fill: #f8760d; } .builder-item--primary-menu .nav-ul > li:not(:last-of-type){ margin-right:20px; } .builder-item--primary-menu .style-full-height .nav-ul li:not(.menu-item-nav-search):not(.menu-item-nav-cart):hover > a:after{ width: calc(100% + 20px); } .builder-item--primary-menu .nav-ul li a, .builder-item--primary-menu .neve-mm-heading span{ min-height: 25px; } .builder-item--primary-menu{ font-size: 1em; line-height: 1.6em; letter-spacing: 0px; font-weight: 500; text-transform: none; } .builder-item--primary-menu svg{ width: 1em;height: 1em; } @media(min-width: 576px){ .container{ max-width: 992px; } .header-menu-sidebar{ width: 360px; } .builder-item--logo .site-logo img{ max-width: 120px; } .builder-item--logo .site-logo{ padding:10px 0px 10px 0px; } .builder-item--logo{ margin:0px 0px 0px 0px; } .builder-item--nav-icon .navbar-toggle{ padding:10px 15px 10px 15px; } .builder-item--nav-icon{ margin:0px 0px 0px 0px; } .builder-item--primary-menu .nav-ul > li:not(:last-of-type){ margin-right:20px; } .builder-item--primary-menu .style-full-height .nav-ul li:not(.menu-item-nav-search):not(.menu-item-nav-cart):hover > a:after{ width: calc(100% + 20px); } .builder-item--primary-menu .nav-ul li a, .builder-item--primary-menu .neve-mm-heading span{ min-height: 25px; } .builder-item--primary-menu{ font-size: 1em; line-height: 1.6em; letter-spacing: 0px; } .builder-item--primary-menu svg{ width: 1em;height: 1em; } }@media(min-width: 960px){ .container{ max-width: 1170px; } #content .container .col, #content .container-fluid .col{ max-width: 70%; } .alignfull > [class*="__inner-container"], .alignwide > [class*="__inner-container"]{ max-width:789px } .container-fluid .alignfull > [class*="__inner-container"], .container-fluid .alignwide > [class*="__inner-container"]{ max-width:calc(70% + 15px) } .nv-sidebar-wrap, .nv-sidebar-wrap.shop-sidebar{ max-width: 30%; } .header-menu-sidebar{ width: 360px; } .builder-item--logo .site-logo img{ max-width: 100px; } .builder-item--logo .site-logo{ padding:0px 0px 0px 0px; } .builder-item--logo{ margin:0px 0px 0px 0px; } .builder-item--nav-icon .navbar-toggle{ padding:10px 15px 10px 15px; } .builder-item--nav-icon{ margin:0px 0px 0px 0px; } .builder-item--primary-menu .nav-ul > li:not(:last-of-type){ margin-right:20px; } .builder-item--primary-menu .style-full-height .nav-ul li:not(.menu-item-nav-search):not(.menu-item-nav-cart) > a:after{ left:-10px;right:-10px } .builder-item--primary-menu .style-full-height .nav-ul li:not(.menu-item-nav-search):not(.menu-item-nav-cart):hover > a:after{ width: calc(100% + 20px); } .builder-item--primary-menu .nav-ul li a, .builder-item--primary-menu .neve-mm-heading span{ min-height: 25px; } .builder-item--primary-menu{ font-size: 1em; line-height: 1.6em; letter-spacing: 0px;padding-left:0px;margin-left:-217px; } .builder-item--primary-menu svg{ width: 1em;height: 1em; } }:root{--nv-primary-accent:#0366d6;--nv-secondary-accent:#0366d6;--nv-site-bg:#ffffff;--nv-light-bg:#ededed;--nv-dark-bg:#14171c;--nv-text-color:#393939;--nv-text-dark-bg:#ffffff;--nv-c-1:#77b978;--nv-c-2:#f37262;--nv-fallback-ff:Arial, Helvetica, sans-serif;}
-</style>
-<link rel="stylesheet" id="flexible-shipping-free-shipping-css" href="/wp-content/plugins/flexible-shipping/assets/dist/css/free-shipping.css?ver=5.0.5.2" type="text/css" media="all">
-<style id="kadence-blocks-advancedheading-inline-css" type="text/css">
-.wp-block-kadence-advancedheading mark{background:transparent;border-style:solid;border-width:0}.wp-block-kadence-advancedheading mark.kt-highlight{color:#f76a0c;}.kb-adv-heading-icon{display: inline-flex;justify-content: center;align-items: center;}
-</style>
-<style id="kadence-blocks-global-variables-inline-css" type="text/css">
-:root {--global-kb-font-size-sm:clamp(0.8rem, 0.73rem + 0.217vw, 0.9rem);--global-kb-font-size-md:clamp(1.1rem, 0.995rem + 0.326vw, 1.25rem);--global-kb-font-size-lg:clamp(1.75rem, 1.576rem + 0.543vw, 2rem);--global-kb-font-size-xl:clamp(2.25rem, 1.728rem + 1.63vw, 3rem);--global-kb-font-size-xxl:clamp(2.5rem, 1.456rem + 3.26vw, 4rem);--global-kb-font-size-xxxl:clamp(2.75rem, 0.489rem + 7.065vw, 6rem);}:root {--global-palette1: #3182CE;--global-palette2: #2B6CB0;--global-palette3: #1A202C;--global-palette4: #2D3748;--global-palette5: #4A5568;--global-palette6: #718096;--global-palette7: #EDF2F7;--global-palette8: #F7FAFC;--global-palette9: #ffffff;}
-</style>
-<style id="kadence_blocks_css-inline-css" type="text/css">
-.wp-block-kadence-advancedheading.kt-adv-heading1429_9f2ecd-5b, .wp-block-kadence-advancedheading.kt-adv-heading1429_9f2ecd-5b[data-kb-block="kb-adv-heading1429_9f2ecd-5b"]{font-weight:normal;}.wp-block-kadence-advancedheading.kt-adv-heading1429_9f2ecd-5b mark, .wp-block-kadence-advancedheading.kt-adv-heading1429_9f2ecd-5b[data-kb-block="kb-adv-heading1429_9f2ecd-5b"] mark{font-weight:normal;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}.wp-block-kadence-advancedheading.kt-adv-heading1429_68c9f8-ef, .wp-block-kadence-advancedheading.kt-adv-heading1429_68c9f8-ef[data-kb-block="kb-adv-heading1429_68c9f8-ef"]{font-weight:normal;}.wp-block-kadence-advancedheading.kt-adv-heading1429_68c9f8-ef mark, .wp-block-kadence-advancedheading.kt-adv-heading1429_68c9f8-ef[data-kb-block="kb-adv-heading1429_68c9f8-ef"] mark{font-weight:normal;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;}
-</style>
-<script type="text/javascript" src="/wp-content/plugins/svg-support/vendor/DOMPurify/DOMPurify.min.js?ver=2.5.8" id="bodhi-dompurify-library-js"></script>
-<script type="text/javascript" src="/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-<script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<script type="text/javascript" id="bodhi_svg_inline-js-extra">
-/* <![CDATA[ */
-var svgSettings = {"skipNested":""};
-/* ]]> */
-</script>
-<script type="text/javascript" src="/wp-content/plugins/svg-support/js/min/svgs-inline-min.js" id="bodhi_svg_inline-js"></script>
-<script type="text/javascript" id="bodhi_svg_inline-js-after">
-/* <![CDATA[ */
-cssTarget={"Bodhi":"img.style-svg","ForceInlineSVG":"style-svg"};ForceInlineSVGActive="false";frontSanitizationEnabled="on";
-/* ]]> */
-</script>
-<link rel="https://api.w.org/" href="/wp-json/"><link rel="alternate" title="JSON" type="application/json" href="/wp-json/wp/v2/pages/1429"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
-<meta name="generator" content="WordPress 6.8.2">
-<meta name="generator" content="WooCommerce 7.2.2">
-<link rel="canonical" href="/es/solarpunk-manifestosu/">
-<link rel="shortlink" href="/?p=1429">
-<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fes%2Fsolarpunk-manifestosu%2F">
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fes%2Fsolarpunk-manifestosu%2F&amp;format=xml">
-<style>/* CSS added by WP Meta and Date Remover*/.entry-meta {display:none !important;}
-	.home .entry-meta { display: none; }
-	.entry-footer {display:none !important;}
-	.home .entry-footer { display: none; }</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<link rel="icon" href="/wp-content/uploads/2019/08/cropped-REDES-TRANSPARENTE-CUADRADO-Para-Favicon-32x32.png" sizes="32x32">
-<link rel="icon" href="/wp-content/uploads/2019/08/cropped-REDES-TRANSPARENTE-CUADRADO-Para-Favicon-192x192.png" sizes="192x192">
-<link rel="apple-touch-icon" href="/wp-content/uploads/2019/08/cropped-REDES-TRANSPARENTE-CUADRADO-Para-Favicon-180x180.png">
-<meta name="msapplication-TileImage" content="/wp-content/uploads/2019/08/cropped-REDES-TRANSPARENTE-CUADRADO-Para-Favicon-270x270.png">
-		<style type="text/css" id="wp-custom-css">
-			.row .primary-menu-ul .sub-menu li a {
-    display: flex;
-    justify-content: left;
-    align-items: center;
-    white-space: nowrap;
-    width: 100%;
-    padding: 7px 14px;
-}
+[Diğer diller](http://www.re-des.org/un-manifiesto-solarpunk-todos-los-idiomas/)
 
-first-of-type {
-    padding-top: 0px;
-    padding-right: 0px;
-    padding-bottom: 0px;
-    padding-left: 0px;
-}
+Son 10+ yılda birçok kişi Solarpunk hakkında yazdı. Çoğunlukla 2014’ten sonra.
 
-.nv-page-title-wrap.nv-big-title .nv-page-title h1 {
-    display: none;
-}
+Tür henüz net olarak tanımlanmamıştır.
 
-.nv-page-title-wrap.nv-big-title .nv-page-title {
-    display: none
-}
+Bu **Solarpunk Manifestosu**, birçok kişi tarafından yazılmış solarpunk hakkındaki fikirlerin yaratıcı bir
 
-.wp-embed-responsive .wp-block-embed.wp-embed-aspect-16-9 .wp-block-embed__wrapper:before {
-    padding-top: 0%;
-}
+yeniden uyarlamasıdır. Bu fikirler esas olarak Solarpunk’ta bulunabilir: bir başvuru kılavuzu [burada](https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965)
 
-/* hide mobile show desktop */
-@media only screen and (min-width: 992px) {
-    .mobile-image {
-        display:none;
-    }
-    .desktop-image {
-        display:block;
-    }
-}
-/* show mobile hide desktop */
-@media only screen and (max-width: 991px) {
-    .mobile-image {
-        display:block;
-    }
-    .desktop-image {
-        display:none;
-    }
-}
+bulunabilir ve Solarpunk: Notes to a Manifesto by Adam Flynn’de [buradan](https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/) ulaşılabilir.
 
-/* For correct SVG scaling */
-.style-svg {
-       max-width: 100%;
-       height: 100%;
-}		</style>
-		
-	</head>
+## Solarpunk Manifestosu
 
-<body class="wp-singular page-template-default page page-id-1429 wp-custom-logo wp-theme-neve theme-neve woocommerce-no-js  nv-sidebar-right menu_sidebar_slide_left" id="neve_body">
-<div class="wrapper">
-	
-	<header class="header">
-		<a class="neve-skip-link show-on-focus" href="#content">
-			Saltar al contenido		</a>
-		<div id="header-grid" class="hfg_header site-header">
-	
-<nav class="header--row header-main hide-on-mobile hide-on-tablet layout-full-contained nv-navbar header--row" data-row-id="main" data-show-on="desktop">
+Solarpunk, spekülatif kurgu, sanat, moda ve aktivizmde “sürdürülebilir bir medeniyet neye benziyor ve
 
-	<div class="header--row-inner header-main-inner">
-		<div class="container">
-			<div class="row row--wrapper" data-section="hfg_header_layout_main">
-				<div class="builder-item hfg-item-first col-4 desktop-left"><div class="item--inner builder-item--logo" data-section="title_tagline" data-item-id="logo">
-	
-<div class="site-logo">
-	<a class="brand" href="/es/home/" title="ReDes - Regenerative Design" aria-label="ReDes - Regenerative Design"><img width="1028" height="745" src="/wp-content/uploads/2019/10/REDES-Aless-5.png" class="neve-site-logo skip-lazy" alt="" data-variant="logo" decoding="async" fetchpriority="high" srcset="/wp-content/uploads/2019/10/REDES-Aless-5.png 1028w, /wp-content/uploads/2019/10/REDES-Aless-5-600x435.png 600w, /wp-content/uploads/2019/10/REDES-Aless-5-300x217.png 300w, /wp-content/uploads/2019/10/REDES-Aless-5-768x557.png 768w, /wp-content/uploads/2019/10/REDES-Aless-5-1024x742.png 1024w" sizes="(max-width: 1028px) 100vw, 1028px"></a></div>
+oraya nasıl gidebiliriz?” Sorusunu yanıtlamaya ve somutlaştırmaya çalışan bir harekettir.
 
-	</div>
+Solarpunk’ın estetiği pratik olanı güzelle, iyi tasarlanmış olanı yeşil ve bereketli ile, parlak ve renkli olanı
 
-</div><div class="builder-item has-nav hfg-item-last col-8 desktop-left"><div class="item--inner builder-item--primary-menu has_menu" data-section="header_menu_primary" data-item-id="primary-menu">
-	<div class="nv-nav-wrap">
-	<div role="navigation" class="nav-menu-primary" aria-label="Men&uacute; principal">
+topraktan gelen ve sağlam olanla birleştiriyor.
 
-		<ul id="nv-primary-navigation-main" class="primary-menu-ul nav-ul menu-"><li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46"><a href="/">Home</a></li>
-<li id="menu-item-51" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="/es/nosotras/">Nosotras</a></li>
-<li id="menu-item-644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-644"><a href="/es/cursos-eventos/">Cursos</a></li>
-<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-50"><a href="/es/permacultura/"><span class="menu-item-title-wrap dd-title">Permacultura</span><div role="none" tabindex="-1" class="caret-wrap 4" style="margin-left:5px;"><span class="caret"><svg aria-label="Desplegable" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg></span></div></a>
-<ul class="sub-menu">
-	<li id="menu-item-239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a href="/es/que-es-la-permacultura/">Qu&eacute; es la permacultura</a></li>
-	<li id="menu-item-264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-264"><a href="/es/disenos-consultorias/">Dise&ntilde;os / Consultorias</a></li>
-	<li id="menu-item-647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-647"><a href="/es/diploma-en-diseno-aplicado-de-permacultura/">Diploma en Dise&ntilde;o Aplicado de Permacultura</a></li>
-	<li id="menu-item-267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-267"><a href="http://academiapermaculturaibera.org/">Academia de Permacultura &Iacute;bera</a></li>
-	<li id="menu-item-1716" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1716"><a href="https://nordicpermacultureacademy.org/">Nordic Permaculture Academy</a></li>
-	<li id="menu-item-1717" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1717"><a href="http://www.permakulturiskane.se/wordpress/">Permakultur i Sk&aring;ne</a></li>
-	<li id="menu-item-269" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-269"><a href="https://permaculture-network.eu/">European Permaculture Network</a></li>
-	<li id="menu-item-266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-266"><a href="http://www.permaculturaibera.org/">Permacultura &Iacute;bera</a></li>
-	<li id="menu-item-268" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-268"><a href="http://www.youthinpermaculture.org/">Youth in Permaculture</a></li>
-</ul>
-</li>
-<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="/es/sociocracia/">Sociocracia</a></li>
-<li id="menu-item-1760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1760"><a href="/es/solarpunk/"><span class="menu-item-title-wrap dd-title">Solarpunk</span><div role="none" tabindex="-1" class="caret-wrap 15" style="margin-left:5px;"><span class="caret"><svg aria-label="Desplegable" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg></span></div></a>
-<ul class="sub-menu">
-	<li id="menu-item-1091" class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1091"><a href="/producto/la-rueda/">La Rueda. Una novel&middot;la il&middot;lustrada sobre Permacultura en clave Solarpunk</a></li>
-	<li id="menu-item-957" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-957"><a href="/es/un-manifiesto-solarpunk-todos-los-idiomas/">Un Manifiesto Solarpunk (Todos los idiomas)</a></li>
-</ul>
-</li>
-<li id="menu-item-555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="/es/recursos/">Recursos</a></li>
-<li id="menu-item-1124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1124"><a href="/es/contacto/">Contacto</a></li>
-<li id="menu-item-1725" class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1725"><a href="#pll_switcher"><span class="menu-item-title-wrap dd-title"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAflBMVEX/AAD9AAD3AADxAADrAAD/eXn9bGz8YWH8WVn6UVH5SEj5Pz/3NDT0Kir9/QD+/nL+/lT18lDt4Uf6+j/39zD39yf19R3n5wDxflXsZ1Pt4Y3x8zr0wbLs1NXz8xPj4wD37t3jmkvsUU/Bz6nrykm3vJ72IiL0FBTyDAvhAABEt4UZAAAAX0lEQVR4AQXBQUrFQBBAwXqTDkYE94Jb73+qfwVRcYxVQRBRToiUfoaVpGTrtdS9SO0Z9FR9lVy/g5c99+dKl30N5uxPuviexXEc9/msC7TOkd4kHu/Dlh4itCJ8AP4B0w4Qwmm7CFQAAAAASUVORK5CYII=" alt="Espa&ntilde;ol" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Espa&ntilde;ol</span></span><div role="none" tabindex="-1" class="caret-wrap 20" style="margin-left:5px;"><span class="caret"><svg aria-label="Desplegable" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg></span></div></a>
-<ul class="sub-menu">
-	<li id="menu-item-1725-es" class="lang-item lang-item-78 lang-item-es current-lang lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-1725-es"><a href="/es/solarpunk-manifestosu/" hreflang="es-ES" lang="es-ES"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAflBMVEX/AAD9AAD3AADxAADrAAD/eXn9bGz8YWH8WVn6UVH5SEj5Pz/3NDT0Kir9/QD+/nL+/lT18lDt4Uf6+j/39zD39yf19R3n5wDxflXsZ1Pt4Y3x8zr0wbLs1NXz8xPj4wD37t3jmkvsUU/Bz6nrykm3vJ72IiL0FBTyDAvhAABEt4UZAAAAX0lEQVR4AQXBQUrFQBBAwXqTDkYE94Jb73+qfwVRcYxVQRBRToiUfoaVpGTrtdS9SO0Z9FR9lVy/g5c99+dKl30N5uxPuviexXEc9/msC7TOkd4kHu/Dlh4itCJ8AP4B0w4Qwmm7CFQAAAAASUVORK5CYII=" alt="Espa&ntilde;ol" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Espa&ntilde;ol</span></a></li>
-	<li id="menu-item-1725-en" class="lang-item lang-item-81 lang-item-en no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-1725-en"><a href="/" hreflang="en-CA" lang="en-CA"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAh1BMVEXpTFTwNj7rHiTz8/Pv7u7XAgLuKTP4o6f0l5n9/f327e36+vv39/fnaGvtbnPIAAD1jpPwgIPoe4H19fXhPUDwdXfy0NHtY2XoXmLowcLsvr/fREu+AADwiIzy8vLeLzT1mp/qWFjcJSrgUVeyAADs4+PYGx7kBgjprazr6+umAADPz8/ExMQoJmQzAAAAiElEQVR4ASWJRULDUBCGv5l4gm9wVtj9jwNt37LuEveM/Cq0K/TTs7hDMBT9u4EkqNunq2u1AZtrpJ35/Wtpq9M6jev4XGevUQqiH/uyfLDj4JjGH6UtyoyA9Wpmbp+wAf3ybZEg/v1V84WVoFyngbd7KcvWGxtXwVoBxvDPyzlFHAjfAAEqoAEThSiV/9sl/gAAAABJRU5ErkJggg==" alt="English" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">English</span></a></li>
-</ul>
-</li>
-<li class="menu-item-nav-search minimal" id="nv-menu-item-search-1" aria-label="search"><a href="#" class="nv-nav-search-icon"><span class="nv-icon nv-search">
-				<svg width="15" height="15" viewbox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"></path></svg>
-			</span></a><div class="nv-nav-search">
-<form role="search" method="get" class="search-form" action="/es/">
-	<label>
-		<span class="screen-reader-text">Buscar...</span>
-	</label>
-	<input type="search" class="search-field" aria-label="Buscar" placeholder="Buscar..." value="" name="s">
-	<button type="submit" class="search-submit nv-submit" aria-label="Buscar">
-		<span class="nv-search-icon-wrap">
-			<span class="nv-icon nv-search">
-				<svg width="15" height="15" viewbox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"></path></svg>
-			</span></span>
-	</button>
-	</form>
-</div></li></ul>	</div>
-</div>
+Solarpunk ütopik, sadece iyimser veya daha iyi bir dünyaya giden yolda verilen mücadelelerle ilgili
 
-	</div>
+olabilir , ama asla distopik olamaz. Dünyamız felaketle çalkalanırken, sadece uyarılara değil, çözümlere
 
-</div>							</div>
-		</div>
-	</div>
-</nav>
+de ihtiyacımız var.
 
+Fosil yakıtlar olmadan gelişmek, sahte kıtlığı ve sahte bolluğu desteklemek yerine gerçek kıtlığı adil bir
 
-<nav class="header--row header-main hide-on-desktop layout-full-contained nv-navbar header--row" data-row-id="main" data-show-on="mobile">
+şekilde yönetmek ve bolluğu paylaşmak, birbirimize ve paylaştığımız gezegene karşı daha nazik olmak
 
-	<div class="header--row-inner header-main-inner">
-		<div class="container">
-			<div class="row row--wrapper" data-section="hfg_header_layout_main">
-				<div class="builder-item hfg-item-first col-8 tablet-left mobile-left"><div class="item--inner builder-item--logo" data-section="title_tagline" data-item-id="logo">
-	
-<div class="site-logo">
-	<a class="brand" href="/es/home/" title="ReDes - Regenerative Design" aria-label="ReDes - Regenerative Design"><img width="1028" height="745" src="/wp-content/uploads/2019/10/REDES-Aless-5.png" class="neve-site-logo skip-lazy" alt="" data-variant="logo" decoding="async" srcset="/wp-content/uploads/2019/10/REDES-Aless-5.png 1028w, /wp-content/uploads/2019/10/REDES-Aless-5-600x435.png 600w, /wp-content/uploads/2019/10/REDES-Aless-5-300x217.png 300w, /wp-content/uploads/2019/10/REDES-Aless-5-768x557.png 768w, /wp-content/uploads/2019/10/REDES-Aless-5-1024x742.png 1024w" sizes="(max-width: 1028px) 100vw, 1028px"></a></div>
+için olan çözümlere ihtiyacımız var.
 
-	</div>
+Solarpunk aynı anda geleceğin bir vizyonu, özenli ve düşünceli bir provokasyon, bir yaşam tarzı ve
 
-</div><div class="builder-item hfg-item-last col-4 tablet-right mobile-right"><div class="item--inner builder-item--nav-icon" data-section="header_menu_icon" data-item-id="nav-icon">
-	<div class="menu-mobile-toggle item-button navbar-toggle-wrapper">
-	<button type="button" class=" navbar-toggle" value="Men&uacute; de navegaci&oacute;n" aria-label="Men&uacute; de navegaci&oacute;n ">
-					<span class="bars">
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-				<span class="icon-bar"></span>
-			</span>
-					<span class="screen-reader-text">Men&uacute; de navegaci&oacute;n</span>
-	</button>
-</div> <!--.navbar-toggle-wrapper-->
+düşlenilen geleceğe ulaşmak için bir dizi ulaşılabilir öneridir.
 
+1.  Biz solarpunklarız çünkü iyimserlik elimizden alındı ve onu geri almaya çalışıyoruz.
+    
+2.  Biz solarpunklarız çünkü diğer seçenekler inkar ya da umutsuzluktur.
+    
+3.  Özünde Solarpunk, insanlığın başarabileceklerinin en iyisini somutlaştıran bir gelecek vizyonudur: insanlığın kendisini doğanın bir parçası olarak gördüğü ve temiz enerjinin fosil yakıtların yerini aldığı kıtlık sonrası, hiyerarşi sonrası, kapitalizm sonrası bir dünya.
+    
+4.  Solarpunk’taki “punk” isyan, karşı kültür, kapitalizm sonrası, sömürgecilikten arınma ve coşku ile ilgilidir. Giderek daha korkutucu bir yöne giden ana akımdan farklı bir yöne gitmekle ilgilidir.
+    
+5.  Solarpunk bir sanat ve edebiyat türü olduğu kadar bir harekettir: Bu sadece hikayelerle ilgili değil, aynı zamanda oraya nasıl ulaşabileceğimizle de ilgili.
+    
+6.  Solarpunk çeşitli taktikleri benimser: solarpunk yapmanın tek bir doğru yolu yoktur. Bunun yerine, dünyanın dört bir yanından çeşitli topluluklar, adı ve fikirleri benimser ve kendi kendine yeten devrimin küçük yuvalarını inşa eder.
+    
+7.  Solarpunk, olası bir geleceği tanımlamak için değerli yeni bir bakış açısı, bir paradigma ve bir kelime dağarcığı sağlar. Solarpunk, retrofütürizmi benimsemek yerine tamamen geleceğe bakıyor. Alternatif bir gelecek değil, olası bir gelecek.
+    
+8.  Fütürizmimiz, siberpunk gibi nihilist değildir ve steampunk’ın potansiyel olarak yarı-gerici eğilimlerinden kaçınır: yaratıcılık, üretkenlik, bağımsızlık ve toplulukla ilgilidir.
+    
+9.  Solarpunk, çevresel sürdürülebilirliği ve sosyal adaleti vurgular.
+    
+10.  Solarpunk, hayatı şu anda bizim için ve ayrıca bizi takip eden nesiller için daha harika hale getirmenin yollarını bulmakla ilgilidir.
+    
+11.  Geleceğimiz, halihazırda sahip olduklarımızı yeniden tasarlamayı ve yeni şeyler yaratmayı içermelidir. “Akıllı şehirlerin” akıllı vatandaşlar lehine çöpe atıldığını hayal edin.
+    
+12.  Solarpunk, siyasetin ve bilim kurgunun birbirleri üzerindeki tarihsel etkisini tanır.
+    
+13.  Solarpunk, bilim kurguyu sadece eğlence olarak değil, bir aktivizm biçimi olarak kabul eder.
+    
+14.  Solarpunk, ölmekte olan bir dünya, zengin ve fakir arasında aşılmaz bir uçurum ve şirketler tarafından kontrol edilen bir toplum senaryolarına karşı çıkmak istiyor. Yüzlerce yıl sonra değil, yakın bir gelecekte.
+    
+15.  Solarpunk, gençlik üreten kültür, yerel çözümler, yerel enerji şebekeleri, otonom işleyen sistemler yaratma yolları hakkındadır. Bu dünyayı sevmekle ilgili.
+    
+16.  Solarpunk kültürü tüm kültürleri, dinleri, yetenekleri, biyolojik cinsiyetleri, toplumsal cinsiyetleri ve cinsel kimlikleri içerir.
+    
+17.  Solarpunk, insanlığın sadece hoşgörüyü değil, aynı zamanda daha kapsamlı bir şefkat ve kabulüde kucaklayan bir sosyal evrime ulaşması fikridir.
+    
+18.  Solarpunk’ın görsel estetiği açıktır ve gelişmektedir. Mevcut haliyle, aşağıdakilerin bir karışımıdır: 1. 1800’lerin yelken yaşı/sınır yaşamı (ancak daha fazla bisikletle) 2. Mevcut altyapının yaratıcı bir şekilde yeniden kullanımı (bazen kıyamet sonrası, bazen şimdiki zaman tuhaf) 3. Uygun teknoloji 4. Art Nouveau 5. Hayao Miyazaki 6. Batı dışı dünyadan Jugaad tarzı yenilik 7. Basit çıktılara sahip yüksek teknolojili ile elde edilen gelir.
+    
+19.  Solarpunk, Yeni Şehircilik veya Yeni Yayacılık ve çevresel sürdürülebilirlik ilkelerine göre inşa edilmiş bir gelecekte kurulmuştur.
+    
+20.  Solarpunk, diğer şeylerin yanı sıra farklı teknolojiler kullanarak güneş enerjisi kazanımı için yaratıcı bir şekilde uyarlanmış yapılı bir ortam öngörür. Amaç, kendi kendine yeterliliği ve doğal sınırlar içinde yaşamayı teşvik etmektir.
+    
+21.  Solarpunk’ta gezegenimizin yavaş yavaş yok edilmesini durdurmak için tam zamanında geri çekildik. Gezegenimizin bir parçası olarak yaşam koşullarımızı iyileştirmek için bilimi akıllıca kullanmayı öğrendik. Artık efendi değiliz. Biz bakıcıyız. Biz bahçıvanız.
+    
+22.  Solarpunk: 1. çeşitlidir 2. maneviyat ve bilimin bir arada var olması için yer var 3. güzeldir 4. gerçekleşebilir. Hemen Şimdi
+    
 
-	</div>
+_Solarpunk toplumu_
 
-</div>							</div>
-		</div>
-	</div>
-</nav>
+[![Image 13: Creative Commons Lisansı](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-<div id="header-menu-sidebar" class="header-menu-sidebar menu-sidebar-panel slide_left hfg-pe" data-row-id="sidebar">
-	<div id="header-menu-sidebar-bg" class="header-menu-sidebar-bg">
-		<div class="close-sidebar-panel navbar-toggle-wrapper">
-			<button type="button" class="hamburger is-active  navbar-toggle active" value="Men&uacute; de navegaci&oacute;n" aria-label="Men&uacute; de navegaci&oacute;n ">
-									<span class="bars">
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-						<span class="icon-bar"></span>
-					</span>
-									<span class="screen-reader-text">
-				Men&uacute; de navegaci&oacute;n					</span>
-			</button>
-		</div>
-		<div id="header-menu-sidebar-inner" class="header-menu-sidebar-inner ">
-						<div class="builder-item has-nav hfg-item-last hfg-item-first col-12 desktop-left tablet-left mobile-left"><div class="item--inner builder-item--primary-menu has_menu" data-section="header_menu_primary" data-item-id="primary-menu">
-	<div class="nv-nav-wrap">
-	<div role="navigation" class="nav-menu-primary" aria-label="Men&uacute; principal">
-
-		<ul id="nv-primary-navigation-sidebar" class="primary-menu-ul nav-ul menu-"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46"><a href="/">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51"><a href="/es/nosotras/">Nosotras</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-644"><a href="/es/cursos-eventos/">Cursos</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-50"><a href="/es/permacultura/"><span class="menu-item-title-wrap dd-title">Permacultura</span><div role="none" tabindex="0" class="caret-wrap 4" style="margin-left:5px;"><span class="caret"><svg aria-label="Desplegable" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg></span></div></a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a href="/es/que-es-la-permacultura/">Qu&eacute; es la permacultura</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-264"><a href="/es/disenos-consultorias/">Dise&ntilde;os / Consultorias</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-647"><a href="/es/diploma-en-diseno-aplicado-de-permacultura/">Diploma en Dise&ntilde;o Aplicado de Permacultura</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-267"><a href="http://academiapermaculturaibera.org/">Academia de Permacultura &Iacute;bera</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1716"><a href="https://nordicpermacultureacademy.org/">Nordic Permaculture Academy</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1717"><a href="http://www.permakulturiskane.se/wordpress/">Permakultur i Sk&aring;ne</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-269"><a href="https://permaculture-network.eu/">European Permaculture Network</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-266"><a href="http://www.permaculturaibera.org/">Permacultura &Iacute;bera</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-268"><a href="http://www.youthinpermaculture.org/">Youth in Permaculture</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="/es/sociocracia/">Sociocracia</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1760"><a href="/es/solarpunk/"><span class="menu-item-title-wrap dd-title">Solarpunk</span><div role="none" tabindex="0" class="caret-wrap 15" style="margin-left:5px;"><span class="caret"><svg aria-label="Desplegable" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg></span></div></a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-product menu-item-1091"><a href="/producto/la-rueda/">La Rueda. Una novel&middot;la il&middot;lustrada sobre Permacultura en clave Solarpunk</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-957"><a href="/es/un-manifiesto-solarpunk-todos-los-idiomas/">Un Manifiesto Solarpunk (Todos los idiomas)</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="/es/recursos/">Recursos</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1124"><a href="/es/contacto/">Contacto</a></li>
-<li class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1725"><a href="#pll_switcher"><span class="menu-item-title-wrap dd-title"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAflBMVEX/AAD9AAD3AADxAADrAAD/eXn9bGz8YWH8WVn6UVH5SEj5Pz/3NDT0Kir9/QD+/nL+/lT18lDt4Uf6+j/39zD39yf19R3n5wDxflXsZ1Pt4Y3x8zr0wbLs1NXz8xPj4wD37t3jmkvsUU/Bz6nrykm3vJ72IiL0FBTyDAvhAABEt4UZAAAAX0lEQVR4AQXBQUrFQBBAwXqTDkYE94Jb73+qfwVRcYxVQRBRToiUfoaVpGTrtdS9SO0Z9FR9lVy/g5c99+dKl30N5uxPuviexXEc9/msC7TOkd4kHu/Dlh4itCJ8AP4B0w4Qwmm7CFQAAAAASUVORK5CYII=" alt="Espa&ntilde;ol" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Espa&ntilde;ol</span></span><div role="none" tabindex="0" class="caret-wrap 20" style="margin-left:5px;"><span class="caret"><svg aria-label="Desplegable" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 448 512"><path d="M207.029 381.476L12.686 187.132c-9.373-9.373-9.373-24.569 0-33.941l22.667-22.667c9.357-9.357 24.522-9.375 33.901-.04L224 284.505l154.745-154.021c9.379-9.335 24.544-9.317 33.901.04l22.667 22.667c9.373 9.373 9.373 24.569 0 33.941L240.971 381.476c-9.373 9.372-24.569 9.372-33.942 0z"></path></svg></span></div></a>
-<ul class="sub-menu">
-	<li class="lang-item lang-item-78 lang-item-es current-lang lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-1725-es"><a href="/es/solarpunk-manifestosu/" hreflang="es-ES" lang="es-ES"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAflBMVEX/AAD9AAD3AADxAADrAAD/eXn9bGz8YWH8WVn6UVH5SEj5Pz/3NDT0Kir9/QD+/nL+/lT18lDt4Uf6+j/39zD39yf19R3n5wDxflXsZ1Pt4Y3x8zr0wbLs1NXz8xPj4wD37t3jmkvsUU/Bz6nrykm3vJ72IiL0FBTyDAvhAABEt4UZAAAAX0lEQVR4AQXBQUrFQBBAwXqTDkYE94Jb73+qfwVRcYxVQRBRToiUfoaVpGTrtdS9SO0Z9FR9lVy/g5c99+dKl30N5uxPuviexXEc9/msC7TOkd4kHu/Dlh4itCJ8AP4B0w4Qwmm7CFQAAAAASUVORK5CYII=" alt="Espa&ntilde;ol" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">Espa&ntilde;ol</span></a></li>
-	<li class="lang-item lang-item-81 lang-item-en no-translation menu-item menu-item-type-custom menu-item-object-custom menu-item-1725-en"><a href="/" hreflang="en-CA" lang="en-CA"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAALCAMAAABBPP0LAAAAh1BMVEXpTFTwNj7rHiTz8/Pv7u7XAgLuKTP4o6f0l5n9/f327e36+vv39/fnaGvtbnPIAAD1jpPwgIPoe4H19fXhPUDwdXfy0NHtY2XoXmLowcLsvr/fREu+AADwiIzy8vLeLzT1mp/qWFjcJSrgUVeyAADs4+PYGx7kBgjprazr6+umAADPz8/ExMQoJmQzAAAAiElEQVR4ASWJRULDUBCGv5l4gm9wVtj9jwNt37LuEveM/Cq0K/TTs7hDMBT9u4EkqNunq2u1AZtrpJ35/Wtpq9M6jev4XGevUQqiH/uyfLDj4JjGH6UtyoyA9Wpmbp+wAf3ybZEg/v1V84WVoFyngbd7KcvWGxtXwVoBxvDPyzlFHAjfAAEqoAEThSiV/9sl/gAAAABJRU5ErkJggg==" alt="English" width="16" height="11" style="width: 16px; height: 11px;"><span style="margin-left:0.3em;">English</span></a></li>
-</ul>
-</li>
-<li class="menu-item-nav-search minimal" id="nv-menu-item-search-2" aria-label="search"><a href="#" class="nv-nav-search-icon"><span class="nv-icon nv-search">
-				<svg width="15" height="15" viewbox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"></path></svg>
-			</span></a><div class="nv-nav-search">
-<form role="search" method="get" class="search-form" action="/es/">
-	<label>
-		<span class="screen-reader-text">Buscar...</span>
-	</label>
-	<input type="search" class="search-field" aria-label="Buscar" placeholder="Buscar..." value="" name="s">
-	<button type="submit" class="search-submit nv-submit" aria-label="Buscar">
-		<span class="nv-search-icon-wrap">
-			<span class="nv-icon nv-search">
-				<svg width="15" height="15" viewbox="0 0 1792 1792" xmlns="http://www.w3.org/2000/svg"><path d="M1216 832q0-185-131.5-316.5t-316.5-131.5-316.5 131.5-131.5 316.5 131.5 316.5 316.5 131.5 316.5-131.5 131.5-316.5zm512 832q0 52-38 90t-90 38q-54 0-90-38l-343-342q-179 124-399 124-143 0-273.5-55.5t-225-150-150-225-55.5-273.5 55.5-273.5 150-225 225-150 273.5-55.5 273.5 55.5 225 150 150 225 55.5 273.5q0 220-124 399l343 343q37 37 37 90z"></path></svg>
-			</span></span>
-	</button>
-	</form>
-</div></li></ul>	</div>
-</div>
-
-	</div>
-
-</div>					</div>
-	</div>
-</div>
-<div class="header-menu-sidebar-overlay hfg-ov hfg-pe"></div>
-</div>
-	</header>
-
-	
-
-	
-	<main id="content" class="neve-main">
-
-<div class="container single-page-container">
-	<div class="row">
-				<div class="nv-single-page-wrap col">
-			<div class="nv-page-title-wrap nv-big-title">
-	<div class="nv-page-title ">
-				<h1>Solarpunk Manifestosu (Turkish)</h1>
-					</div><!--.nv-page-title-->
-</div> <!--.nv-page-title-wrap-->
-	<div class="nv-content-wrap entry-content">
-<div class="wp-block-columns has-2-columns is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<h1 class="kt-adv-heading1429_9f2ecd-5b wp-block-kadence-advancedheading" data-kb-block="kb-adv-heading1429_9f2ecd-5b">Solarpunk</h1>
-
-
-
-<p><em>&Ccedil;eviren: &#350;ahin Davoodian</em></p>
-
-
-
-<p></p>
-</div>
-
-
-
-<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
-<div class="wp-block-button alignright"><a class="wp-block-button__link has-neve-button-color-background-color has-background wp-element-button" href="/un-manifiesto-solarpunk-todos-los-idiomas/">Di&#287;er diller</a></div>
-</div>
-</div>
-
-
-
-<p>Son 10+ y&#305;lda bir&ccedil;ok ki&#351;i Solarpunk hakk&#305;nda yazd&#305;. &Ccedil;o&#287;unlukla 2014&rsquo;ten sonra.&nbsp;</p>
-
-
-
-<p>T&uuml;r hen&uuml;z net olarak tan&#305;mlanmam&#305;&#351;t&#305;r.</p>
-
-
-
-<p>Bu <strong>Solarpunk Manifestosu</strong>, bir&ccedil;ok ki&#351;i taraf&#305;ndan yaz&#305;lm&#305;&#351; solarpunk hakk&#305;ndaki fikirlerin yarat&#305;c&#305; bir<br>yeniden uyarlamas&#305;d&#305;r. Bu fikirler esas olarak Solarpunk&rsquo;ta bulunabilir: bir ba&#351;vuru k&#305;lavuzu <a href="https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965">burada</a><br>bulunabilir ve Solarpunk: Notes to a Manifesto by Adam Flynn&rsquo;de <a href="https://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/">buradan</a> ula&#351;&#305;labilir.</p>
-
-
-
-<h2 class="kt-adv-heading1429_68c9f8-ef wp-block-kadence-advancedheading" data-kb-block="kb-adv-heading1429_68c9f8-ef">Solarpunk Manifestosu</h2>
-
-
-
-<p>Solarpunk, spek&uuml;latif kurgu, sanat, moda ve aktivizmde &ldquo;s&uuml;rd&uuml;r&uuml;lebilir bir medeniyet neye benziyor ve<br>oraya nas&#305;l gidebiliriz?&rdquo; Sorusunu yan&#305;tlamaya ve somutla&#351;t&#305;rmaya &ccedil;al&#305;&#351;an bir harekettir.</p>
-
-
-
-<p>Solarpunk&rsquo;&#305;n esteti&#287;i pratik olan&#305; g&uuml;zelle, iyi tasarlanm&#305;&#351; olan&#305; ye&#351;il ve bereketli ile, parlak ve renkli olan&#305;<br>topraktan gelen ve sa&#287;lam olanla birle&#351;tiriyor.</p>
-
-
-
-<p>Solarpunk &uuml;topik, sadece iyimser veya daha iyi bir d&uuml;nyaya giden yolda verilen m&uuml;cadelelerle ilgili<br>olabilir , ama asla distopik olamaz. D&uuml;nyam&#305;z felaketle &ccedil;alkalan&#305;rken, sadece uyar&#305;lara de&#287;il, &ccedil;&ouml;z&uuml;mlere<br>de ihtiyac&#305;m&#305;z var.</p>
-
-
-
-<p>Fosil yak&#305;tlar olmadan geli&#351;mek, sahte k&#305;tl&#305;&#287;&#305; ve sahte bollu&#287;u desteklemek yerine ger&ccedil;ek k&#305;tl&#305;&#287;&#305; adil bir<br>&#351;ekilde y&ouml;netmek ve bollu&#287;u payla&#351;mak, birbirimize ve payla&#351;t&#305;&#287;&#305;m&#305;z gezegene kar&#351;&#305; daha nazik olmak<br>i&ccedil;in olan &ccedil;&ouml;z&uuml;mlere ihtiyac&#305;m&#305;z var.</p>
-
-
-
-<p>Solarpunk ayn&#305; anda gelece&#287;in bir vizyonu, &ouml;zenli ve d&uuml;&#351;&uuml;nceli bir provokasyon, bir ya&#351;am tarz&#305; ve<br>d&uuml;&#351;lenilen gelece&#287;e ula&#351;mak i&ccedil;in bir dizi ula&#351;&#305;labilir &ouml;neridir.</p>
-
-
-
-<ol class="wp-block-list">
-<li>Biz solarpunklar&#305;z &ccedil;&uuml;nk&uuml; iyimserlik elimizden al&#305;nd&#305; ve onu geri almaya &ccedil;al&#305;&#351;&#305;yoruz.</li>
-
-
-
-<li>Biz solarpunklar&#305;z &ccedil;&uuml;nk&uuml; di&#287;er se&ccedil;enekler inkar ya da umutsuzluktur.</li>
-
-
-
-<li>&Ouml;z&uuml;nde Solarpunk, insanl&#305;&#287;&#305;n ba&#351;arabileceklerinin en iyisini somutla&#351;t&#305;ran bir gelecek vizyonudur: insanl&#305;&#287;&#305;n kendisini do&#287;an&#305;n bir par&ccedil;as&#305; olarak g&ouml;rd&uuml;&#287;&uuml; ve temiz enerjinin fosil yak&#305;tlar&#305;n yerini ald&#305;&#287;&#305; k&#305;tl&#305;k sonras&#305;, hiyerar&#351;i sonras&#305;, kapitalizm sonras&#305; bir d&uuml;nya.</li>
-
-
-
-<li>Solarpunk&rsquo;taki &ldquo;punk&rdquo; isyan, kar&#351;&#305; k&uuml;lt&uuml;r, kapitalizm sonras&#305;, s&ouml;m&uuml;rgecilikten ar&#305;nma ve co&#351;ku ile ilgilidir. Giderek daha korkutucu bir y&ouml;ne giden ana ak&#305;mdan farkl&#305; bir y&ouml;ne gitmekle ilgilidir.</li>
-
-
-
-<li>Solarpunk bir sanat ve edebiyat t&uuml;r&uuml; oldu&#287;u kadar bir harekettir: Bu sadece hikayelerle ilgili de&#287;il, ayn&#305; zamanda oraya nas&#305;l ula&#351;abilece&#287;imizle de ilgili.</li>
-
-
-
-<li>Solarpunk &ccedil;e&#351;itli taktikleri benimser: solarpunk yapman&#305;n tek bir do&#287;ru yolu yoktur. Bunun yerine, d&uuml;nyan&#305;n d&ouml;rt bir yan&#305;ndan &ccedil;e&#351;itli topluluklar, ad&#305; ve fikirleri benimser ve kendi kendine yeten devrimin k&uuml;&ccedil;&uuml;k yuvalar&#305;n&#305; in&#351;a eder.</li>
-
-
-
-<li>Solarpunk, olas&#305; bir gelece&#287;i tan&#305;mlamak i&ccedil;in de&#287;erli yeni bir bak&#305;&#351; a&ccedil;&#305;s&#305;, bir paradigma ve bir kelime da&#287;arc&#305;&#287;&#305; sa&#287;lar. Solarpunk, retrof&uuml;t&uuml;rizmi benimsemek yerine tamamen gelece&#287;e bak&#305;yor. Alternatif bir gelecek de&#287;il, olas&#305; bir gelecek.</li>
-
-
-
-<li>F&uuml;t&uuml;rizmimiz, siberpunk gibi nihilist de&#287;ildir ve steampunk&rsquo;&#305;n potansiyel olarak yar&#305;-gerici e&#287;ilimlerinden ka&ccedil;&#305;n&#305;r: yarat&#305;c&#305;l&#305;k, &uuml;retkenlik, ba&#287;&#305;ms&#305;zl&#305;k ve toplulukla ilgilidir.</li>
-
-
-
-<li>Solarpunk, &ccedil;evresel s&uuml;rd&uuml;r&uuml;lebilirli&#287;i ve sosyal adaleti vurgular.</li>
-
-
-
-<li>Solarpunk, hayat&#305; &#351;u anda bizim i&ccedil;in ve ayr&#305;ca bizi takip eden nesiller i&ccedil;in daha harika hale getirmenin yollar&#305;n&#305; bulmakla ilgilidir.</li>
-
-
-
-<li>Gelece&#287;imiz, halihaz&#305;rda sahip olduklar&#305;m&#305;z&#305; yeniden tasarlamay&#305; ve yeni &#351;eyler yaratmay&#305; i&ccedil;ermelidir. &ldquo;Ak&#305;ll&#305; &#351;ehirlerin&rdquo; ak&#305;ll&#305; vatanda&#351;lar lehine &ccedil;&ouml;pe at&#305;ld&#305;&#287;&#305;n&#305; hayal edin.</li>
-
-
-
-<li>Solarpunk, siyasetin ve bilim kurgunun birbirleri &uuml;zerindeki tarihsel etkisini tan&#305;r.</li>
-
-
-
-<li>Solarpunk, bilim kurguyu sadece e&#287;lence olarak de&#287;il, bir aktivizm bi&ccedil;imi olarak kabul eder.</li>
-
-
-
-<li>Solarpunk, &ouml;lmekte olan bir d&uuml;nya, zengin ve fakir aras&#305;nda a&#351;&#305;lmaz bir u&ccedil;urum ve &#351;irketler taraf&#305;ndan kontrol edilen bir toplum senaryolar&#305;na kar&#351;&#305; &ccedil;&#305;kmak istiyor. Y&uuml;zlerce y&#305;l sonra de&#287;il, yak&#305;n bir gelecekte.</li>
-
-
-
-<li>Solarpunk, gen&ccedil;lik &uuml;reten k&uuml;lt&uuml;r, yerel &ccedil;&ouml;z&uuml;mler, yerel enerji &#351;ebekeleri, otonom i&#351;leyen sistemler yaratma yollar&#305; hakk&#305;ndad&#305;r. Bu d&uuml;nyay&#305; sevmekle ilgili.</li>
-
-
-
-<li>Solarpunk k&uuml;lt&uuml;r&uuml; t&uuml;m k&uuml;lt&uuml;rleri, dinleri, yetenekleri, biyolojik cinsiyetleri, toplumsal cinsiyetleri ve cinsel kimlikleri i&ccedil;erir.</li>
-
-
-
-<li>Solarpunk, insanl&#305;&#287;&#305;n sadece ho&#351;g&ouml;r&uuml;y&uuml; de&#287;il, ayn&#305; zamanda daha kapsaml&#305; bir &#351;efkat ve kabul&uuml;de kucaklayan bir sosyal evrime ula&#351;mas&#305; fikridir.</li>
-
-
-
-<li>Solarpunk&rsquo;&#305;n g&ouml;rsel esteti&#287;i a&ccedil;&#305;kt&#305;r ve geli&#351;mektedir. Mevcut haliyle, a&#351;a&#287;&#305;dakilerin bir kar&#305;&#351;&#305;m&#305;d&#305;r:
-<ol class="wp-block-list">
-<li>1800&rsquo;lerin yelken ya&#351;&#305;/s&#305;n&#305;r ya&#351;am&#305; (ancak daha fazla bisikletle)</li>
-
-
-
-<li>Mevcut altyap&#305;n&#305;n yarat&#305;c&#305; bir &#351;ekilde yeniden kullan&#305;m&#305; (bazen k&#305;yamet sonras&#305;, bazen &#351;imdiki zaman tuhaf)</li>
-
-
-
-<li>Uygun teknoloji</li>
-
-
-
-<li>Art Nouveau</li>
-
-
-
-<li>Hayao Miyazaki</li>
-
-
-
-<li>Bat&#305; d&#305;&#351;&#305; d&uuml;nyadan Jugaad tarz&#305; yenilik</li>
-
-
-
-<li>Basit &ccedil;&#305;kt&#305;lara sahip y&uuml;ksek teknolojili ile elde edilen gelir.</li>
-</ol>
-</li>
-
-
-
-<li>Solarpunk, Yeni &#350;ehircilik veya Yeni Yayac&#305;l&#305;k ve &ccedil;evresel s&uuml;rd&uuml;r&uuml;lebilirlik ilkelerine g&ouml;re in&#351;a edilmi&#351; bir gelecekte kurulmu&#351;tur.</li>
-
-
-
-<li>Solarpunk, di&#287;er &#351;eylerin yan&#305; s&#305;ra farkl&#305; teknolojiler kullanarak g&uuml;ne&#351; enerjisi kazan&#305;m&#305; i&ccedil;in yarat&#305;c&#305; bir &#351;ekilde uyarlanm&#305;&#351; yap&#305;l&#305; bir ortam &ouml;ng&ouml;r&uuml;r. Ama&ccedil;, kendi kendine yeterlili&#287;i ve do&#287;al s&#305;n&#305;rlar i&ccedil;inde ya&#351;amay&#305; te&#351;vik etmektir.</li>
-
-
-
-<li>Solarpunk&rsquo;ta gezegenimizin yava&#351; yava&#351; yok edilmesini durdurmak i&ccedil;in tam zaman&#305;nda geri &ccedil;ekildik. Gezegenimizin bir par&ccedil;as&#305; olarak ya&#351;am ko&#351;ullar&#305;m&#305;z&#305; iyile&#351;tirmek i&ccedil;in bilimi ak&#305;ll&#305;ca kullanmay&#305; &ouml;&#287;rendik. Art&#305;k efendi de&#287;iliz. Biz bak&#305;c&#305;y&#305;z. Biz bah&ccedil;&#305;van&#305;z.</li>
-
-
-
-<li>Solarpunk:
-<ol class="wp-block-list">
-<li>&ccedil;e&#351;itlidir</li>
-
-
-
-<li>maneviyat ve bilimin bir arada var olmas&#305; i&ccedil;in yer var</li>
-
-
-
-<li>g&uuml;zeldir</li>
-
-
-
-<li>ger&ccedil;ekle&#351;ebilir. Hemen &#350;imdi</li>
-</ol>
-</li>
-</ol>
-
-
-
-<p><em>Solarpunk toplumu</em></p>
-
-
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img decoding="async" alt="Creative Commons Lisans&#305;" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a><br>Bu eser <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons At&#305;f-Ayn&#305;LisanslaPayla&#351; 4.0 Uluslararas&#305; Lisans&#305;</a> ile lisanslanm&#305;&#351;t&#305;r.
-</div>		</div>
-			</div>
-</div>
-
-</main><!--/.neve-main-->
-
-<footer class="site-footer" id="site-footer">
-	<div class="hfg_footer">
-			</div>
-</footer>
-
-</div><!--/.wrapper-->
-<script type="speculationrules">
-{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/neve\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
-</script>
-	<script type="text/javascript">
-		(function () {
-			var c = document.body.className;
-			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
-			document.body.className = c;
-		})();
-	</script>
-	<style id="core-block-supports-inline-css" type="text/css">
-.wp-container-core-columns-is-layout-9d6595d7{flex-wrap:nowrap;}
-</style>
-<script type="text/javascript" src="/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.2.2" id="jquery-blockui-js"></script>
-<script type="text/javascript" id="wc-add-to-cart-js-extra">
-/* <![CDATA[ */
-var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"\/es\/carrito\/","is_cart":"","cart_redirect_after_add":"no"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.2.2" id="wc-add-to-cart-js"></script>
-<script type="text/javascript" src="/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.2.2" id="js-cookie-js"></script>
-<script type="text/javascript" id="woocommerce-js-extra">
-/* <![CDATA[ */
-var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.2.2" id="woocommerce-js"></script>
-<script type="text/javascript" id="wc-cart-fragments-js-extra">
-/* <![CDATA[ */
-var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_b36fbcd9ff0e86a7ec43758067b4806f","fragment_name":"wc_fragments_b36fbcd9ff0e86a7ec43758067b4806f","request_timeout":"5000"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.2.2" id="wc-cart-fragments-js"></script>
-<script type="text/javascript" id="custom-script-js-extra">
-/* <![CDATA[ */
-var wpdata = {"object_id":"1429","site_url":""};
-/* ]]> */
-</script>
-<script type="text/javascript" src="/wp-content/plugins/wp-meta-and-date-remover/assets/js/inspector.js?ver=1.1" id="custom-script-js"></script>
-<script type="text/javascript" id="mailchimp-woocommerce-js-extra">
-/* <![CDATA[ */
-var mailchimp_public_data = {"site_url":"","ajax_url":"\/wp-admin\/admin-ajax.php","disable_carts":"","subscribers_only":"","language":"es","allowed_to_set_cookies":"1"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=4.3.1.07" id="mailchimp-woocommerce-js"></script>
-<script type="text/javascript" id="neve-script-js-extra">
-/* <![CDATA[ */
-var NeveProperties = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"5d213507a9","isRTL":"","isCustomize":""};
-/* ]]> */
-</script>
-<script type="text/javascript" src="/wp-content/themes/neve/assets/js/build/modern/frontend.js?ver=3.4.10" id="neve-script-js" async></script>
-<script type="text/javascript" id="neve-script-js-after">
-/* <![CDATA[ */
-	var html = document.documentElement;
-	var theme = html.getAttribute('data-neve-theme') || 'light';
-	var variants = {"logo":{"light":{"src":"\/wp-content\/uploads\/2019\/10\/REDES-Aless-5.png","srcset":"\/wp-content\/uploads\/2019\/10\/REDES-Aless-5.png 1028w, \/wp-content\/uploads\/2019\/10\/REDES-Aless-5-600x435.png 600w, \/wp-content\/uploads\/2019\/10\/REDES-Aless-5-300x217.png 300w, \/wp-content\/uploads\/2019\/10\/REDES-Aless-5-768x557.png 768w, \/wp-content\/uploads\/2019\/10\/REDES-Aless-5-1024x742.png 1024w","sizes":"(max-width: 1028px) 100vw, 1028px"},"dark":{"src":"\/wp-content\/uploads\/2019\/10\/REDES-Aless-5.png","srcset":"\/wp-content\/uploads\/2019\/10\/REDES-Aless-5.png 1028w, \/wp-content\/uploads\/2019\/10\/REDES-Aless-5-600x435.png 600w, \/wp-content\/uploads\/2019\/10\/REDES-Aless-5-300x217.png 300w, \/wp-content\/uploads\/2019\/10\/REDES-Aless-5-768x557.png 768w, \/wp-content\/uploads\/2019\/10\/REDES-Aless-5-1024x742.png 1024w","sizes":"(max-width: 1028px) 100vw, 1028px"},"same":true}};
-
-	function setCurrentTheme( theme ) {
-		var pictures = document.getElementsByClassName( 'neve-site-logo' );
-		for(var i = 0; i<pictures.length; i++) {
-			var picture = pictures.item(i);
-			if( ! picture ) {
-				continue;
-			};
-			var fileExt = picture.src.slice((Math.max(0, picture.src.lastIndexOf(".")) || Infinity) + 1);
-			if ( fileExt === 'svg' ) {
-				picture.removeAttribute('width');
-				picture.removeAttribute('height');
-				picture.style = 'width: var(--maxwidth)';
-			}
-			var compId = picture.getAttribute('data-variant');
-			if ( compId && variants[compId] ) {
-				var isConditional = variants[compId]['same'];
-				if ( theme === 'light' || isConditional || variants[compId]['dark']['src'] === false ) {
-					picture.src = variants[compId]['light']['src'];
-					picture.srcset = variants[compId]['light']['srcset'] || '';
-					picture.sizes = variants[compId]['light']['sizes'];
-					continue;
-				};
-				picture.src = variants[compId]['dark']['src'];
-				picture.srcset = variants[compId]['dark']['srcset'] || '';
-				picture.sizes = variants[compId]['dark']['sizes'];
-			};
-		};
-	};
-
-	var observer = new MutationObserver(function(mutations) {
-		mutations.forEach(function(mutation) {
-			if (mutation.type == 'attributes') {
-				theme = html.getAttribute('data-neve-theme');
-				setCurrentTheme(theme);
-			};
-		});
-	});
-
-	observer.observe(html, {
-		attributes: true
-	});
-/* ]]> */
-</script>
-</body>
-
-</html>
+Bu eser [Creative Commons Atıf-AynıLisanslaPaylaş 4.0 Uluslararası Lisansı](http://creativecommons.org/licenses/by-sa/4.0/) ile lisanslanmıştır.
